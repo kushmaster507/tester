@@ -8,6 +8,10 @@
     "password": "user123"
   },
   "user": {
+    "username": "mine",
+    "password": "test1234"
+  },
+  "user": {
     "username": "dream",
     "password": "test"
   }
