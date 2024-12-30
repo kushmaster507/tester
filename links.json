@@ -255,21 +255,31 @@
     "id": "Hallmark.-.Eastern.Feed.us",
     "name": "Hallmark Channel",
     "links": [
-      "http://143.244.60.97/HALLMARK_CHANNEL/index.m3u8"
+      "http://143.244.60.97/HALLMARK_CHANNEL/index.m3u8",
+      "http://23.237.104.106:8080/USA_HALLMARK/index.m3u8",
+      "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAfQUAgksoIyBLVgCXVIKVgN-Q5-ZCumPGcoRgX3gbdH2CTstWCwQgBEADD48GGodAigxHEoCc8-1Ws_nkE7NugQrTCQsA05GCikmRMC49SYS4ICCTiNTT5OzLeooiESFfdXLvsb23Or_OSp_8_GrSNocsHghqnsMhV2vncAbS4nFUYlhXAe58yjqYC_fJkazpZqtlaI3pYShkfVHaj4PRRAXnS3qt-4YDAL6wG67KTwyhoGZtsPw.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;",
+     "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQA5QYAUs4zJgCpzgA_YGb2FJBWycF42IU_oQHZ_ocB-a-D3SAopvJ4-____7ACDb-1VFV4CpgTzw0sV5gxMUv__fACWvoz3ythgwsENESjfHUttLSuUBeWemRdIiTp49LwFC5uwSJYlhiCZSUcB5A-sNi2DTIgPROpzCNVtJJiQic8o5AVSKIkCTqzmiNyXaN4jqLW-zy0iSDaQJY2kXWcK4bj2P19sIPfM__3u41vLF0DL9LJ8ZlH1EfClfc7TAQ_TMeFKa3xNBlm3gB4E_x97hu98RcCAxAFIFPaK66FArIjUg4.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;",
+      "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQABQUAYkokIjANKwBIhk998enYKMg70vdVWoorwbRpDZ9ZfOpU_4P-cAIVf20hMWAShREgJsF93TbakT8uq02KvUU9LZsVo5skK71PT4ZOfEi16bSdpI1KLXvv_HrL5h__-myeRuJYK5wIhAMZzLB93YEyyIj74wADAg1RYvECuQJFYQ1BBwoMwTnWEAVKXgB7y9cjX3o_EQMAkIxwjAUPS8jUGbH3Imc.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;",
+      "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_UQAGwD9BQDSzCoiIG3sAxXA5lWWLIJTniSHOaAVHrgNA8CBOTG6AekESADUBRO7wNBYHBZNUBQUg8WxaSH0ka1i2YMJAgEFCgaYRTJ59gyGaS3jivw1KAcNJlCs-MFBzmT53rlvuF0t6I8_mMVP2tVy_vgjUf0NQsxJwjmdTfvsm9NsWuUMi-YqNkC6XnHK2T5KDUARFopo7PWcoYi29V47ij6xXWu9UAl9mm96OTbtatPnRgQFAI7edUjGmRfc_pKRg1uRAdosYWI.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;"
     ]
   },
   {
     "id": "Hallmark.Drama.HDTV.(HALDRHD).us",
     "name": "Hallmark Family",
     "links": [
-      "http://143.244.60.97/HALLMARK_DRAMA/index.m3u8"
+      "http://143.244.60.97/HALLMARK_DRAMA/index.m3u8",
+      "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAbQUAEgsnIzBpqgCLPEqxWnV7NYG-8JMori0VL0w_mnQxerDY0oOSgmIQDXcGFqbxOIt5BBjM-baq0zzyiWCZWzgZnZJEyD35OrYjCXhy8RSFSxQuxkbJ2VLUEs8pACxViLXG9t7H-XVWeuTnPyCqYgjYNCBjaQ6s4IENY-c7IoOZcI8cMTWtbLUKTTE9rJZ6gutgaonSbhjW4hCcL-mN7hcCBACusJunMjDVBLJXQQGUQrTh.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;"
     ]
   },
   {
     "id": "Hallmark.Mystery.Eastern.-.HD.us",
     "name": "Hallmark Mystery",
     "links": [
-      "http://143.244.60.97/HALLMARK_MOVIES_MYSTERIES/index.m3u8"
+      "http://143.244.60.97/HALLMARK_MOVIES_MYSTERIES/index.m3u8",
+      "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQA_QUAYgwrIzCHygHLS0eXqHc0QU0h7kUb2RfWRohoJhNDyyYavhoYGIYBCX_kogmAHtZADYDm8fnCVn3y-sgtASkD30IpVCKSKBg9CjITXKT3EBOjgJHTtM7KOsTyFEqssNSci3lvx-NxxffJH--Q9NUMDEdKp9AGIIbT2vSYrT1-sgUVsp_cYM17ZZwjU8dbYJpai24dkWxRDoeLgGlqIVgyA2tW904HgS0egcfTu-3-QQUAyLAbrvLaqqhXgymeUFHc95vl.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;",
+      "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_UQADgBlBgByzS4jIKfMAC8_gyATTSayQQUqVnurJngp8tPp2FA8fCl8FWAAcC4HLqWHoiIE8KDKiRYOFRFvkZAcuuayVl3x-tBLgUAbmuYrZFsOjIGxIhrdW2SyMm3ieyf0TPPNNzCH7d8eGePs-Gkvqm1mu69aXqa9KLaZ7ZZr5qu5f7jpvTGHnmu-rrhDxxzyiRwqPvlEAwl4WatCtitOODAN2sGbPEKVPIbiqSRjegGKOElShJ7Bc2QhSgGHTu-22wsCBRAF6VgR5sHzRbtqLyj0wM-B.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;",
+      "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_UQABgBVBgCCTS4jEInMAF8CRcIhqL1ld0loCPPTDZen4mVAILzSG-OuAAAAwHELHjkICIrNQGsUDMGCgaJAWxg4Dj1f2KqOeK2ySxCyYVlexbQ7KAZFekhPWd7yGvea9tMVvhc7nvxJ81OfvWphJ3_S-9Rnbkps8_Ue1HnvyaHjiq0j7tAnh76cpm_RrR_PrKKmj-GHsuS1VjYOfb5Use2IBxyUBs2gBWiMBEIRMZ5WkIiP48SmKTQmSmJ04NCp3b89IQQAh65FY1wCB3IslqkogFJ_Sw.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;",
+      "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_UQAGwANBgDSTCsjIG3shygFNq_yZBGc8iQ5zAGtzkXHJwAmEhYrh4ZQEECQwQETu8DgYBwYRVgUlgLmsWqh9LHtYlsElQQCBhAIcJuk8u0bTeNaRjZ51LAYOHhg8eKHJz2TZfTvvcPti0GHHMItvtK-2HPIIcrqd1BiVhLO-azab-8eZ9Uub9o0d7EA8jWLU073k3IKPWBoorFZ5A1NNBLZlJEEhWI_55qhEgo57zR7rFrmps-NCAUAjt51SMaZF9z-kpGDW5EBJGkUrw.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;"
     ]
   },
   {
