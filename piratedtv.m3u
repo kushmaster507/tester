@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:0 CUID="" tvg-name="" group-title="PTV-USA",PBS Create Maryland
+https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
+#EXTINF:-1 tvg-id="telemundo.int",Global | Telemundo
+http://168.181.122.234:8000/play/a011/index.m3u8
+#EXTINF:-1 tvg-id="freeform.us" group-title="PTV-USA",Freeform
+http://212.102.60.231/FREE_FORM/index.m3u8
+#EXTINF:-1 tvg-id="hbofam.us" group-title="PTV-USA",HBO Family
+http://212.102.60.231/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="Laff.us" tvg-logo="https://i.imgur.com/PtHtgsn.png" group-title="PTV-USA",Laff
+http://72.46.118.193/Laff/index.m3u8
+#EXTINF:-1 tvg-id="retro.us" tvg-logo="https://i.imgur.com/iUTL0pm.png" group-title="PTV-USA",RetroTV
+https://cdn.igocast.com/channel8_hls/channel8_master.m3u8
+#EXTINF:-1 tvg-id="BounceXL" group-title="PTV-USA",Bounce XL
+https://lnc-bounce-xl.tubi.video/playlist.m3u8
+#EXTINF:0 CUID="" tvg-name="" group-title="PTV-USA",MyTV (Buffalo)
+http://104.194.41.183:9981/stream/channel/e0a4e41302786b512d75d030cc0e8f13
+#EXTINF:-1 tvg-id="pbsworld" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/World_Channel_2023.svg" group-title="PTV-USA",PBS World
+https://world.lls.pbs.org/index.m3u8
+#EXTINF:-1 tvg-id="bbcnews.int" group-title="PTV-USA",BBC News
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1 tvg-id="kartoonchannel.us" group-title="PTV-USA",Kartoon Channel
+https://lnc-kartoon.tubi.video/kc_co.m3u8
+#EXTINF:-1 tvg-id="disneyeastyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg" group-title="PTV-USA",Disney Channel
+http://212.102.60.231/DISNEY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="disneyxdeast" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Disney_XD_%28Print%29.svg/revision/latest?cb=20171202145010" group-title="PTV-USA",Disney XD
+http://212.102.60.231/DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-id="judge" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="PTV-USA",CourtTV
+https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
+#EXTINF:-1 tvg-id="Charge.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Charge%21_Logo_2020.svg" group-title="PTV-USA",Charge!
+https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1 tvg-id="uhhhhhheu83" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BBC_America_logo_2021.svg/150px-BBC_America_logo_2021.svg.png" group-title="PTV-USA",BBC America
+https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-id="gsn.east" group-title="PTV-USA",GSN
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="u3rdhs833hd8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/1200px-TruTV_2014.svg.png" group-title="PTV-USA",TruTV
+https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="eiuhzu" group-title="PTV-USA",Nick Jr.
+https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
+#EXTINF:0 CUID="" tvg-name="" group-title="PTV-USA",Bounce
+http://72.46.118.193/Bounce/index.m3u8
+#EXTINF:-1 tvg-id="pbskids" group-title="PTV-USA",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-id="nickmusic.us" group-title="PTV-USA",NickMusic
+http://212.102.60.231/NICK_MUSIC/index.m3u8
+#EXTINF:-1 tvg-id="QVC3.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/QVC3_2019.svg/revision/latest?cb=20221116035218" group-title="PTV-USA",QVC3
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
+#EXTINF:-1 tvg-id="TNT East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png" group-title="PTV-USA",TNT
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="HLN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/HLNLogo2023.svg" group-title="PTV-USA",HLN
+https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="bether.us" group-title="PTV-USA",BET Her
+http://212.102.60.231/BET_HER/index.m3u8
+#EXTINF:-1 tvg-id="QVC2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/QVC2_logo_2019.svg/1280px-QVC2_logo_2019.svg.png" group-title="PTV-USA",QVC2
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
+#EXTINF:-1 tvg-id="HSN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1200px-HSN_logo.svg.png" group-title="PTV-USA",HSN
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
+#EXTINF:-1 tvg-id="HSN2.us" group-title="PTV-USA",HSN2
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
+#EXTINF:-1 tvg-id="QVC.us" group-title="PTV-USA",QVC
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8

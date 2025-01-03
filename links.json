@@ -1,0 +1,1277 @@
+{
+  "channels": [
+  {
+    "id": "Bloomberg.TV.USA.us",
+    "name": "BLOOMBERG",
+    "links": [
+      "http://143.244.60.97/BLOOMBERG/index.m3u8",
+      "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAxQQAEkojIjBLVQBLlRNmN6-tb4pE4XbXWnsGcjyoxpBc6s3iIjIiQhAPjwqyLC8JWInBMeAcy4PLYZS726onvnGWLGsvNo1q7tqihhhL9FI9K8IkFZjUdNpmbGVrzt47797c9cbvPiGqYjzJJ-qu8O4J9IAX7o0nABaPZHAVsQQKEEjAMApcDuuIihebu8t66X1DAkAYLAXum81M4OjH.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;"
+    ]
+  },
+  {
+    "id": "C-SPAN.us",
+    "name": "C-SPAN",
+    "links": [
+      "http://143.244.60.97/C-SPAN/index.m3u8"
+    ]
+  },
+  {
+    "id": "CBS.(WCBS).New.York,.NY.us",
+    "name": "CBS",
+    "links": [
+      "http://143.244.60.97/CBSEAST/index.m3u8"
+    ]
+  },
+  {
+    "id": "CNBC.USA.us",
+    "name": "CNBC FHD",
+    "links": [
+      "http://212.102.60.231/CNBC/index.m3u8",
+      "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAwQYAeyJ0aXRsZSI6IlVTQS1TRCB8IENOQkMgKFQpIChsOndlYjI0KSIsInR2Z19pZCI6IlVTOiBDTkJDIiwidHZnX2NoIjoiIiwibG9nbyI6Imh0dHBzOi8vODkuMTg3LjE3OS4xMjI6NDQzL2ltYWdlcy9hOFpMeWJNRTdudm1aVGoxajNFOHM0X1RETXNaZ1hCb1NjYzZQZ1hxSzBNbjdQdnJQcHJyUGMycUc5bzBOZGlXLnBuZyIsImdyb3VwIjoiTE9XIEJBTkRXSURUSCBDSEFOTkVMUyJ9SmX0sw.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;",
+      "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAgQYAeyJ0aXRsZSI6Ik5FV1M6IENOQkMgIChsOnNheXBvcHVsYXIpIiwidHZnX2lkIjoiQ29uc3VtZXIuTmV3cy5hbmQuQnVzaW5lc3MuQ2hhbm5lbC5IRFRWLihDTkJDSCkudXMiLCJ0dmdfY2giOiIiLCJsb2dvIjoiaHR0cDovL3NheXBvcHVsYXIuY29tOjI1NDYxL2ltYWdlcy9kMzhjNGU4YjdmNDZmOWJkNWI3ZGYzOTljOTNkOTg0ZS5wbmciLCJncm91cCI6Ik5FV1MifawhUsg.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;"
+    ]
+  },
+  {
+    "id": "CNN.us",
+    "name": "CNN",
+    "links": [
+      "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8"
+    ]
+  },
+  {
+    "id": "Cable.News.Network.International.(CNNI).us",
+    "name": "CNN INTERNATIONAL",
+    "links": [
+      "http://143.244.60.97/CNN_INTERNATIONAL/index.m3u8"
+    ]
+  },
+  {
+    "id": "FOX.(WNYW).New.York,.NY.us",
+    "name": "FOX",
+    "links": [
+      "http://143.244.60.97/FOX_EAST/index.m3u8"
+    ]
+  },
+  {
+    "id": "Fox.Business.us",
+    "name": "FOX Business Network",
+    "links": [
+      "http://143.244.60.97/FOX_Business_Network/index.m3u8"
+    ]
+  },
+  {
+    "id": "MSNBC.USA.us",
+    "name": "MSNBC",
+    "links": [
+      "http://streamsy.online:2999/live/venomj/EmoOmOskzq/143.m3u8"
+    ]
+  },
+  {
+    "id": "NBC.(WNBC).New.York,.NY.us",
+    "name": "NBC",
+    "links": [
+      "http://143.244.60.97/NBC_EAST/index.m3u8"
+    ]
+  },
+  {
+    "id": "NewsNation.-.Eastern.Feed.us",
+    "name": "NewsNation",
+    "links": [
+      "http://143.244.60.97/NEWS_NATION/index.m3u8"
+    ]
+  },
+  {
+    "id": "Scripps.News.Channel.us",
+    "name": "Scripps News",
+    "links": [
+      "https://linear-460.frequency.stream/dist/vix/460/hls/master/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "The.Weather.Channel.us",
+    "name": "Weather Channel",
+    "links": [
+      "http://143.244.60.97/THE_WEATHER_CHANNEL/index.m3u8"
+    ]
+  },
+  {
+    "id": "Big.Ten.Network.us",
+    "name": "Big Ten Network HD",
+    "links": [
+      "http://195.181.163.243/BIG_TEN_NETWORK/index.m3u8"
+    ]
+  },
+  {
+    "id": "CBS.Sports.Network.USA.us",
+    "name": "CBS SPORTS NETWORK",
+    "links": [
+      "http://143.244.60.97/CBS_SPORTS_NETWORK/index.m3u8"
+    ]
+  },
+  {
+    "id": "ESPN.us",
+    "name": "ESPN",
+    "links": [
+      "http://41.205.93.154/ESPN/index.m3u8"
+    ]
+  },
+  {
+    "id": "ESPN2.us",
+    "name": "ESPN 2",
+    "links": [
+      "http://143.244.60.97/ESPN_2/index.m3u8"
+    ]
+  },
+  {
+    "id": "ESPNews.us",
+    "name": "ESPN NEWS",
+    "links": [
+      "http://143.244.60.97/ESPN_NEWS/index.m3u8"
+    ]
+  },
+  {
+    "id": "ESPNU.us",
+    "name": "ESPN U",
+    "links": [
+      "http://143.244.60.97/ESPN_U/index.m3u8"
+    ]
+  },
+  {
+    "id": "Fox.Soccer.Plus.us",
+    "name": "FOX SOCCER PLUS",
+    "links": [
+      "http://streamsy.online:2999/live/venomj/EmoOmOskzq/265.m3u8"
+    ]
+  },
+  {
+    "id": "Fox.Sports.1.us",
+    "name": "FS1",
+    "links": [
+      "http://143.244.60.97/FOX_Sports_1/index.m3u8"
+    ]
+  },
+  {
+    "id": "Fox.Sports.2.us",
+    "name": "FS2",
+    "links": [
+      "http://streamsy.online:2999/venomj/EmoOmOskzq/264"
+    ]
+  },
+  {
+    "id": "MavTV.USA.us",
+    "name": "MAVTV",
+    "links": [
+      "http://143.244.60.97/MAV_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "MLB.Network.us",
+    "name": "MLB Network",
+    "links": [
+      "http://143.244.60.97/MLB_NETWORK/index.m3u8"
+    ]
+  },
+  {
+    "id": "NBA.TV.USA.us",
+    "name": "NBA TV",
+    "links": [
+      "http://143.244.60.97/NBA_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "Golf.Channel.USA.us",
+    "name": "NBC Golf",
+    "links": [
+      "http://143.244.60.97/GOLF_CHANNEL/index.m3u8"
+    ]
+  },
+  {
+    "id": "NFL.Network.us",
+    "name": "NFL Network",
+    "links": [
+      "http://143.244.60.97/NFL_NETWORK/index.m3u8"
+    ]
+  },
+  {
+    "id": "NFL.RedZone.us",
+    "name": "NFL RedZone",
+    "links": [
+      "http://143.244.60.97/NFL_RedZone/index.m3u8"
+    ]
+  },
+  {
+    "id": "NHL.Network.USA.us",
+    "name": "NHL Network",
+    "links": [
+      "http://143.244.60.97/NHL_NETWORK/index.m3u8"
+    ]
+  },
+  {
+    "id": "Pursuit.Channel.us",
+    "name": "Pursuit Channel",
+    "links": [
+      "http://195.181.163.243/Pursuit_Channel/index.m3u8"
+    ]
+  },
+  {
+    "id": "SEC.Network.us",
+    "name": "SEC Network",
+    "links": [
+      "http://streamsy.online:2999/venomj/EmoOmOskzq/295"
+    ]
+  },
+  {
+    "id": "Sportsman.Channel.us",
+    "name": "Sportsman Channel",
+    "links": [
+      "http://143.244.60.97/SPORTSMAN_CHANNEL/index.m3u8"
+    ]
+  },
+  {
+    "id": "MoreMax..Eastern.us",
+    "name": "CINEMAX MOREMAX",
+    "links": [
+      "http://23.237.104.106:8080/USA_MOREMAX/index.m3u8",
+      "http://195.181.163.243/CINEMAX_MOREMAX/index.m3u8",
+      "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAWQUAeyJ0aXRsZSI6IlVTQSB8IENpbmVtYXggTW9yZSBNYXggKGw6dm9sdHN0cmVhbXMpIiwidHZnX2lkIjoiTW9yZU1heC51cyIsInR2Z19jaCI6IiIsImxvZ28iOiJodHRwczovL2Nkbi5pcHR2Ym9zcy5wcm8vbG9nb3MvVVNBL01vcmVNYXgudXMucG5nIiwiZ3JvdXAiOiJIRCBQUkVNSVVNIE1PVklFUyJ92IpTyQ.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;",
+      "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAuQUAeyJ0aXRsZSI6IlVTIE1vcmUgTWF4ICAobDoxdHY0MSkiLCJ0dmdfaWQiOiJtb3JlbWF4LnVzIiwidHZnX2NoIjoiIiwibG9nbyI6Imh0dHBzOi8vcC5raW5kcG5nLmNvbS9waWNjL3MvODMtODM2OTU4X21vcmUtbWF4LWhkdHYtY2luZW1heC1oZC1wbmctZG93bmxvYWQucG5nIiwiZ3JvdXAiOiJNT1ZJRSBORVRXT1JLUyJ9xAvCFw.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;"
+    ]
+  },
+  {
+    "id": "Cinemax.-.Pacific.Feed.us",
+    "name": "CINEMAX WEST",
+    "links": [
+      "http://143.244.60.97/CINEMAX_WEST/index.m3u8"
+    ]
+  },
+  {
+    "id": "FX.Movie.Channel.us",
+    "name": "FXM",
+    "links": [
+      "http://143.244.60.97/FX_MOVIE/index.m3u8"
+    ]
+  },
+  {
+    "id": "Hallmark.-.Eastern.Feed.us",
+    "name": "Hallmark Channel",
+    "links": [
+      "http://143.244.60.97/HALLMARK_CHANNEL/index.m3u8",
+      "http://23.237.104.106:8080/USA_HALLMARK/index.m3u8",
+      "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAfQUAgksoIyBLVgCXVIKVgN-Q5-ZCumPGcoRgX3gbdH2CTstWCwQgBEADD48GGodAigxHEoCc8-1Ws_nkE7NugQrTCQsA05GCikmRMC49SYS4ICCTiNTT5OzLeooiESFfdXLvsb23Or_OSp_8_GrSNocsHghqnsMhV2vncAbS4nFUYlhXAe58yjqYC_fJkazpZqtlaI3pYShkfVHaj4PRRAXnS3qt-4YDAL6wG67KTwyhoGZtsPw.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;",
+     "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQA5QYAUs4zJgCpzgA_YGb2FJBWycF42IU_oQHZ_ocB-a-D3SAopvJ4-____7ACDb-1VFV4CpgTzw0sV5gxMUv__fACWvoz3ythgwsENESjfHUttLSuUBeWemRdIiTp49LwFC5uwSJYlhiCZSUcB5A-sNi2DTIgPROpzCNVtJJiQic8o5AVSKIkCTqzmiNyXaN4jqLW-zy0iSDaQJY2kXWcK4bj2P19sIPfM__3u41vLF0DL9LJ8ZlH1EfClfc7TAQ_TMeFKa3xNBlm3gB4E_x97hu98RcCAxAFIFPaK66FArIjUg4.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;",
+      "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQABQUAYkokIjANKwBIhk998enYKMg70vdVWoorwbRpDZ9ZfOpU_4P-cAIVf20hMWAShREgJsF93TbakT8uq02KvUU9LZsVo5skK71PT4ZOfEi16bSdpI1KLXvv_HrL5h__-myeRuJYK5wIhAMZzLB93YEyyIj74wADAg1RYvECuQJFYQ1BBwoMwTnWEAVKXgB7y9cjX3o_EQMAkIxwjAUPS8jUGbH3Imc.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;",
+      "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_UQAGwD9BQDSzCoiIG3sAxXA5lWWLIJTniSHOaAVHrgNA8CBOTG6AekESADUBRO7wNBYHBZNUBQUg8WxaSH0ka1i2YMJAgEFCgaYRTJ59gyGaS3jivw1KAcNJlCs-MFBzmT53rlvuF0t6I8_mMVP2tVy_vgjUf0NQsxJwjmdTfvsm9NsWuUMi-YqNkC6XnHK2T5KDUARFopo7PWcoYi29V47ij6xXWu9UAl9mm96OTbtatPnRgQFAI7edUjGmRfc_pKRg1uRAdosYWI.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;"
+    ]
+  },
+  {
+    "id": "Hallmark.Drama.HDTV.(HALDRHD).us",
+    "name": "Hallmark Family",
+    "links": [
+      "http://143.244.60.97/HALLMARK_DRAMA/index.m3u8",
+      "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAbQUAEgsnIzBpqgCLPEqxWnV7NYG-8JMori0VL0w_mnQxerDY0oOSgmIQDXcGFqbxOIt5BBjM-baq0zzyiWCZWzgZnZJEyD35OrYjCXhy8RSFSxQuxkbJ2VLUEs8pACxViLXG9t7H-XVWeuTnPyCqYgjYNCBjaQ6s4IENY-c7IoOZcI8cMTWtbLUKTTE9rJZ6gutgaonSbhjW4hCcL-mN7hcCBACusJunMjDVBLJXQQGUQrTh.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;",
+      "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_UQAGQD1BQDCzCoiME3sV1cAm1N5Mgi--0LBXF8UTc35w9VS1pnv4k4FDQUVCBXL0NBgHhhVWBYWA8axaqH0sS2yLYJKEgEFCga4TVL59oymcS0jmzxyWA4aTLB4McSTnsky-vfe4fbFoEP-4BZfaV_sOeQPZfU7KDErCed8Vu23d4-zapc3bZqLbIB8zeKU0_2kHIAiLDTR2CxyhiYq4fx1gkKxn3O9UAqFnHeaOVYtc9PnTgQFAI7edUbGmRfc_pIRPzPJYzxh5A.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;",
+      "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQALQYAAo0tJSBrqgCHjaM0K5roWJIhFiPmLYbBj867zOowC_HjgyYvIQQg4wIRf2KB48CGoDUJTOPBOHCgPQ7i3zF2renJpwh2igasLAGNo5m5xaIskEOlVjKgFlBa6chiVO4rcq29kJZUmphWNOvJuk5SaVpa0cxJ8laMdb8L50z9_U63PvnfKciFOWmlxVSWtLXK5u8ShSaG_OQAiyWa2auJthAbDshoBgjQESNsGkRjHgV8FP4-a6b5DwEDAAxdIxkDCeSzeQYwHGh2.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;",
+      "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQALQYAAo0tJSBrqgCHjaM0K5roWJIhFiPmLYbBj867zOowC_HjgyYvIQQg4wIRf2KB48CGoDUJTOPBOHCgPQ7i3zF2renJpwh2igasLAGNo5m5xaIskEOlVjKgFlBa6chiVO4rcq29kJZUmphWNOvJuk5SaVpa0cxJ8laMdb8L50z9_U63PvnfKciFOWmlxVSWtLXK5u8ShSaG_OQAiyWa2auJthAbDshoBgjQESNsGkRjHgV8FP4-a6b5DwEDAAxdIxkDCeSzeQYwHGh2.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;",
+      "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAHQYA8gwtIzCJamiX2bFJdK1esBxF1KHRrbWLHdbdsZ6l4mt7ij9YGBiADR3FAQiCjkBzHk0D0kAwoEEKYr_G2L1oK00l2CUS8MIoHE8zcwtmYSSF-lYyJOuStlbpOMDii08Wq7JPJNfaG3H51MRvfeb0uk4-Ne1bnzlK3oox9zfBOVf9-tJbW-l-XUXgAx3No16iCLmVRiyYaWavHhricWgHsfFARiNwwCdG6DSG1kQJGBn061nz514IBBAF6VgxZIXLsrZ7shmpZw.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;"
+    ]
+  },
+  {
+    "id": "Hallmark.Mystery.Eastern.-.HD.us",
+    "name": "Hallmark Mystery",
+    "links": [
+      "http://143.244.60.97/HALLMARK_MOVIES_MYSTERIES/index.m3u8",
+      "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQA_QUAYgwrIzCHygHLS0eXqHc0QU0h7kUb2RfWRohoJhNDyyYavhoYGIYBCX_kogmAHtZADYDm8fnCVn3y-sgtASkD30IpVCKSKBg9CjITXKT3EBOjgJHTtM7KOsTyFEqssNSci3lvx-NxxffJH--Q9NUMDEdKp9AGIIbT2vSYrT1-sgUVsp_cYM17ZZwjU8dbYJpai24dkWxRDoeLgGlqIVgyA2tW904HgS0egcfTu-3-QQUAyLAbrvLaqqhXgymeUFHc95vl.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;",
+      "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_UQADgBlBgByzS4jIKfMAC8_gyATTSayQQUqVnurJngp8tPp2FA8fCl8FWAAcC4HLqWHoiIE8KDKiRYOFRFvkZAcuuayVl3x-tBLgUAbmuYrZFsOjIGxIhrdW2SyMm3ieyf0TPPNNzCH7d8eGePs-Gkvqm1mu69aXqa9KLaZ7ZZr5qu5f7jpvTGHnmu-rrhDxxzyiRwqPvlEAwl4WatCtitOODAN2sGbPEKVPIbiqSRjegGKOElShJ7Bc2QhSgGHTu-22wsCBRAF6VgR5sHzRbtqLyj0wM-B.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;",
+      "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_UQABgBVBgCCTS4jEInMAF8CRcIhqL1ld0loCPPTDZen4mVAILzSG-OuAAAAwHELHjkICIrNQGsUDMGCgaJAWxg4Dj1f2KqOeK2ySxCyYVlexbQ7KAZFekhPWd7yGvea9tMVvhc7nvxJ81OfvWphJ3_S-9Rnbkps8_Ue1HnvyaHjiq0j7tAnh76cpm_RrR_PrKKmj-GHsuS1VjYOfb5Use2IBxyUBs2gBWiMBEIRMZ5WkIiP48SmKTQmSmJ04NCp3b89IQQAh65FY1wCB3IslqkogFJ_Sw.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;",
+      "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_UQAGwANBgDSTCsjIG3shygFNq_yZBGc8iQ5zAGtzkXHJwAmEhYrh4ZQEECQwQETu8DgYBwYRVgUlgLmsWqh9LHtYlsElQQCBhAIcJuk8u0bTeNaRjZ51LAYOHhg8eKHJz2TZfTvvcPti0GHHMItvtK-2HPIIcrqd1BiVhLO-azab-8eZ9Uub9o0d7EA8jWLU073k3IKPWBoorFZ5A1NNBLZlJEEhWI_55qhEgo57zR7rFrmps-NCAUAjt51SMaZF9z-kpGDW5EBJGkUrw.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;"
+    ]
+  },
+  {
+    "id": "HBO.-.Eastern.Feed.us",
+    "name": "HBO",
+    "links": [
+      "http://143.244.60.97/HBO/index.m3u8"
+    ]
+  },
+  {
+    "id": "HBO.Comedy.HD.-.East.us",
+    "name": "HBO Comedy",
+    "links": [
+      "http://143.244.60.97/HBO_COMEDY/index.m3u8"
+    ]
+  },
+  {
+    "id": "HBO.Zone.HD.-.East.us",
+    "name": "HBO Zone",
+    "links": [
+      "http://143.244.60.97/HBO_ZONE/index.m3u8"
+    ]
+  },
+  {
+    "id": "HBO.2.-.Eastern.Feed.us",
+    "name": "HBO2",
+    "links": [
+      "http://143.244.60.97/HBO_2/index.m3u8"
+    ]
+  },
+  {
+    "id": "Lifetime.Network.US.-.Eastern.Feed.us",
+    "name": "Lifetime",
+    "links": [
+      "http://143.244.60.97/LIFETIME/index.m3u8",
+      "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAtQQA8skiITCFqgBzp41G6eFL0lLV0k2tE04h1XQ9NmoSC0LrQUGhYAWXUWkauCTY4iQMlDQQwSBG_Du-uqJHTincHJSPs5r2dVNHjVI2W12vo5pSo9pW3I3i6dzDOde_N-175H-vkXW1Odk8JRv_DmAbNCAfOeFgeEyBdwdMWTCOomAiI2CJLED5_H3ebPMHAgJAGBwFw5rN77sI5g.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;",
+      "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAhQUAoosoIyCJqgAPFEi9RG0lqS_3IuShdurwOwHwNxJDwtrMNGoAYAA8C58GEI6AmhBHKSR3fr2oI355bFQGNQ_TtMHwKgdChxcdmOcw3YsKRjDqCGq247NkayDnAWCLQtYa13sZ59NI55efz4D2YkrCCSikhCnXPpcwAyogwRpUWvno2RQ7fyEP4uN-ueJ486q0IjzLM0HakrcrKSkgiKng_J5X3icEAwDCsJuyyk8MoaAt55zg.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;"     
+    ]
+  },
+  {
+    "id": "Lifetime.Movies.-.East.us",
+    "name": "Lifetime Movies Network",
+    "links": [
+      "http://143.244.60.97/LIFETIME_MOVIE_NETWORK/index.m3u8",
+      "http://23.237.104.106:8080/USA_LMN/index.m3u8",
+      "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQABQUA8gkiITBnqgAYKPsWutpUVSWmKGZyN7TNrSwCRlkeddrVwMAwDAdvEAtmAEBRKOUgwCxvrxNL8MYhrWstZkAYkiAJs4_Dsk6s6WvKbtUCNtkdDFlK3O7dh0aIsWZrd_R2hixv_O2Rs9Mx5dufSABv33jhtTNvN0lQyr54eVFvxn5QTKgm4O1PduwbBAcAXgnpOi6MwQowkAhUTlLtlnIVFAAW1s4.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;",
+      "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQA9QQA4okhIDChqgD32XWb8XotwxVWQJL4ECTtx4R2ECSB6oV_4HsDAX8KCIeRYA6LISyc5u61YioeeaSVMdYGSlMWZWkWcvCsVWsKm_Jj9dEmfglHnhT3gxeiMmrN2dot3Z0jzyO_u_RslUzz7pBsxNtHLrhNceRmYC0L5eVmwUk2jKRhPYq7w9myDxAHAF4J6ToujMEKMJAIVA5S7VJyFRTtgZev.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;"
+    ]
+  },
+  {
+    "id": "MGM.HD.(USA).us",
+    "name": "MGM+",
+    "links": [
+      "http://143.244.60.97/EPIX/index.m3u8"
+    ]
+  },
+  {
+    "id": "MGM+.Drive-In.(MGM+DI).us",
+    "name": "MGM+ Drive-In",
+    "links": [
+      "http://143.244.60.97/EPIX_DRIVE_IN/index.m3u8"
+    ]
+  },
+  {
+    "id": "MGM+.Hits.HDTV.(East).(MGM+HTHD).us",
+    "name": "MGM+ HITS",
+    "links": [
+      "http://143.244.60.97/EPIX_2/index.m3u8"
+    ]
+  },
+  {
+    "id": "MGM+.Marquee.HDTV.(East).(MGM+MRQ).us",
+    "name": "MGM+ MARQUEE",
+    "links": [
+      "http://143.244.60.97/EPIX_HITS/index.m3u8"
+    ]
+  },
+  {
+    "id": "OuterMax.east.us",
+    "name": "OUTER MAX",
+    "links": [
+      "http://143.244.60.97/OUTER_MAX/index.m3u8"
+    ]
+  },
+  {
+    "id": "Paramount+.with.Showtime.-.Eastern.Feed.us",
+    "name": "Showtime",
+    "links": [
+      "http://143.244.60.97/SHOWTIME/index.m3u8"
+    ]
+  },
+  {
+    "id": "Showtime.2.-.Eastern.us",
+    "name": "Showtime 2",
+    "links": [
+      "http://143.244.60.97/SHOWTIME_2/index.m3u8"
+    ]
+  },
+  {
+    "id": "Showtime.Extreme.-.Eastern.us",
+    "name": "Showtime Extreme",
+    "links": [
+      "http://143.244.60.97/SHOWTIME_EXTREME/index.m3u8"
+    ]
+  },
+  {
+    "id": "Showtime.Next.HD.-.Eastern.us",
+    "name": "Showtime Next",
+    "links": [
+      "http://143.244.60.97/SHOWTIME_NEXT/index.m3u8",
+      "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQArQUA4sspJDBrHQDrCLp_iNJ8auJHoeiZ0krh6Y9GBy8yGeXHGJi9iIgoMBF_AwzJgHqJRAUISN_TbELkmcsF2iDHkVBQPI4IceIRxcjOuWcRMTsMLR6FaypLiFmNix7IWWzG1jRLu6vvp5zXmX9fxZq1pTEBFExPaUtXKCkNgWpMjSuMkVm99v3DSpAMfeYLBF4ZndQB1r2UpBuYIGHM6sisHkTCeAff89VW_yEDAMCwW7DK7xahoC5jnuc.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;",
+      "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAzQQAEsoiIUAJVQCIG-SbzXg8j02IGrNm5fjwTUIRKW6tUkr3QrWFBQ2HLhlYnnpN8pxAgDqQt9fESvLFZVSXApkBG8Yrl7KV6mJehKnrXNHjMNa4dkNvX7n0xd8OOZxYrRCjiJidsBC__ZkGcuoXB2DEQZSam-7U6EEdiGIKnKLcSxiCBYGKQRmweXukPfsLAQMASwwxS8iweDbPGDAd3g.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;",
+      "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAmQUAeyJ0aXRsZSI6IlVTQSB8IFNIT1dUSU1FIE5FWFQgKGw6d2ViMjQpIiwidHZnX2lkIjoiU2hvd3RpbWVOZXh0LnVzIiwidHZnX2NoIjoiIiwibG9nbyI6Imh0dHA6Ly9pcHR2Ym9zcy54eXovbG9nb3MvVVNBJTIwTmV0d29ya3MlMjBhbmQlMjBTcG9ydHMvTkVYVC5wbmciLCJncm91cCI6Ik1PVklFIE5FVFdPUktTIn3qVinZ.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;",
+      "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQA7QQAMoojIiANVQCDsNHCxfsK69gwwI5QUsObItiUcBBaB86plRM8QIATfwwQnAWIaRZToOAcfE8nhoA3DidlDFkeHOvRApAGkCBKq5EDSzq1nq8nu4NWjR2bkaNMQBlYamtbaXf8niHLG_8-ujqxjnizfh9JDZDqG18kC9XJSsWCGJhmvQepK47PWkvwJHz_ZEt9iQMAAB9I9JkNmUxBAVBBrYo.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;"
+    ]
+  },
+  {
+    "id": "Paramount+.with.Showtime..West.us",
+    "name": "SHOWTIME WEST",
+    "links": [
+      "http://143.244.60.97/SHOWTIME_WEST/index.m3u8"
+    ]
+  },
+  {
+    "id": "Showtime.Women.HD.-.Eastern.us",
+    "name": "Showtime Women",
+    "links": [
+      "http://143.244.60.97/SHOWTIME_WOMEN/index.m3u8"
+    ]
+  },
+  {
+    "id": "Sony.Movies.us",
+    "name": "Sony Movie Channel",
+    "links": [
+      "http://195.181.163.243/Sony_Movie_Channel/index.m3u8"
+    ]
+  },
+  {
+    "id": "Starz.-.Eastern.us",
+    "name": "Starz",
+    "links": [
+      "http://143.244.60.97/STARZ/index.m3u8"
+    ]
+  },
+  {
+    "id": "Starz.Comedy.HD.-.Eastern.us",
+    "name": "Starz Comedy",
+    "links": [
+      "http://143.244.60.97/STARZ_COMEDY/index.m3u8"
+    ]
+  },
+  {
+    "id": "Starz.Edge.-.Eastern.us",
+    "name": "Starz Edge",
+    "links": [
+      "http://143.244.60.97/STARZ_EDGE/index.m3u8"
+    ]
+  },
+  {
+    "id": "Starz.Encore.-.Eastern.us",
+    "name": "Starz Encore",
+    "links": [
+      "http://143.244.60.97/STARZ_ENCORE/index.m3u8"
+    ]
+  },
+  {
+    "id": "Starz.Encore.Action.-.Eastern.us",
+    "name": "Starz Encore Action",
+    "links": [
+      "http://143.244.60.97/STARZ_ENCORE_ACTION/index.m3u8"
+    ]
+  },
+  {
+    "id": "Starz.Encore.Classic.-.Eastern.us",
+    "name": "STARZ ENCORE CLASSIC",
+    "links": [
+      "http://212.102.60.231/STARZ_ENCORE_CLASSIC/index.m3u8"
+    ]
+  },
+  {
+    "id": "Starz.Encore.Westerns.-.Eastern.us",
+    "name": "Starz Encore Westerns",
+    "links": [
+      "http://143.244.60.97/STARZ_ENCORE_WESTERNS/index.m3u8"
+    ]
+  },
+  {
+    "id": "Starz.-.Pacific.us",
+    "name": "STARZ WEST",
+    "links": [
+      "http://143.244.60.97/STARZ_WEST/index.m3u8"
+    ]
+  },
+  {
+    "id": "SundanceTV.USA.-.East.us",
+    "name": "SundanceTV",
+    "links": [
+      "http://143.244.60.97/SUNDANCE/index.m3u8"
+    ]
+  },
+  {
+    "id": "Turner.Classic.Movies.USA.us",
+    "name": "TCM",
+    "links": [
+      "http://143.244.60.97/TCM/index.m3u8"
+    ]
+  },
+  {
+    "id": "BET.Gospel.us",
+    "name": "BET GOSPEL",
+    "links": [
+      "http://143.244.60.97/BET_GOSPEL/index.m3u8"
+    ]
+  },
+  {
+    "id": "BET.Jams.(BETJ).us",
+    "name": "BET Jams",
+    "links": [
+      "http://195.181.163.243/BET_Jams/index.m3u8"
+    ]
+  },
+  {
+    "id": "BET.Soul.us",
+    "name": "BET SOUL",
+    "links": [
+      "http://143.244.60.97/BET_SOUL/index.m3u8"
+    ]
+  },
+  {
+    "id": "Bravo.USA.-.Eastern.Feed.us",
+    "name": "BRAVO",
+    "links": [
+      "http://143.244.60.97/BRAVO/index.m3u8"
+    ]
+  },
+  {
+    "id": "CMT.US.-.Eastern.Feed.us",
+    "name": "CMT",
+    "links": [
+      "http://195.181.163.243/CMT/index.m3u8"
+    ]
+  },
+  {
+    "id": "Comedy.Central.(US).-.Eastern.Feed.us",
+    "name": "COMEDY CENTRAL",
+    "links": [
+      "http://195.181.163.243/Comedy_Central/index.m3u8",
+      "http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8",
+      "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAlQUAYksoIyBprABPwEy7UitbuJsrEL7ZI6hi2whPhaiBTctWVwYEBMAFC58UCChATQ1SAAHwfZzdqz55ZWDXSEgyB8rDQJQ2BgYKyTgPinNQlmU6z2weRmu0qrcYnIdp60r3XuOcF-_feu2Tv7-QWOYQKSEposMhGYvwcASUlHDu_VkVVIT85MgVbYYvbkSs7dFsvDKDRq0xqXUjhYaYBt6nNlf5CQEEALiwW6pyM5UvskFBAXNBwyg.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;"
+    ]
+  },
+  {
+    "id": "The.Cooking.Channel.us",
+    "name": "COOKING",
+    "links": [
+      "http://195.181.163.243/COOKING_CHANNEL/index.m3u8"
+    ]
+  },
+  {
+    "id": "Court.TV.US.us",
+    "name": "COURT TV",
+    "links": [
+      "http://195.181.163.243/COURT_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "E!.Entertainment.USA.-.Eastern.Feed.us",
+    "name": "E ENTERTAINMENT TELEVISION",
+    "links": [
+      "http://143.244.60.97/E_ENTERTAINMENT_TELEVISION/index.m3u8"
+    ]
+  },
+  {
+    "id": "Food.Network.USA.-.Eastern.Feed.us",
+    "name": "FOOD NETWORK",
+    "links": [
+      "http://143.244.60.97/FOOD_NETWORK/index.m3u8"
+    ]
+  },
+  {
+    "id": "FUSE.TV.-.Eastern.feed.us",
+    "name": "Fuse",
+    "links": [
+      "http://143.244.60.97/FUSE/index.m3u8",
+      "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAAQYAeyJ0aXRsZSI6IlVTQSB8RnVzZSAobDpzYXlwb3B1bGFyKSIsInR2Z19pZCI6IkZ1c2UuSERUVi4oRWFzdCkuKEZVU0VEKS51cyIsInR2Z19jaCI6IiIsImxvZ28iOiJodHRwOi8vc2F5cG9wdWxhci5jb206MjU0NjEvaW1hZ2VzL2I1NTcyYjMwYmM3NjgyNTYxNWI4NDY3ZWI4OTVlY2U0LnBuZyIsImdyb3VwIjoiRUxJVEUgU1RSRUFNUyJ96yLXHA.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;"
+    ]
+  },
+  {
+    "id": "FXX.USA.-.Eastern.us",
+    "name": "FXX",
+    "links": [
+      "http://143.244.60.97/FXX/index.m3u8"
+    ]
+  },
+  {
+    "id": "Fox.News.us",
+    "name": "Fox News",
+    "links": [
+      "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQA3QQAUsojISALVQADw8oocWRFTcs8G94bKxgE6TOxEKmxdq6IKqgaFxGHC_KeUwylGBwFzvEcgXKY5e1X6ki-uLR3MQcbhlt2ZQwNLWlpxj3rE8WFZZvO20veyFi7Oc-3t-z64m-fEJZWjdY-08BTfA6dvF2BIsiG_OIAAwIJcWo1oaCDPHXAJApCHTDAwebtsWaa_xACAHyFCQJw1RkfbLA9.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;",
+      "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_UQAAwAVBwDSTjUm4KrWANKlL7gRnyneRGZgSYlaqv2XokspdWu5GOoa4-cMZphh3gsPn7OLscUYFNNXg7uwtSi3ZV-_VCAT-jPfx7KxPJyLIzfZmTbIZeNiFZvjKtgqaz--b0FgPxLEvccklC6c9jgQuj6g2DuTVtc9U7s0ZDKrK1EgivbEykhdTcKQeVXEMXmPiKAjTVONIqhZUFBDVVCzqBynmuV5fl-f7GT4zH_9b-tsbz0AIb1yPvOJKZJwSw0RNKERNLsYW4xBM3cx7bYA6kCvDGAzwdfn4Qme3xADEAUgU9yrtoUCDSaPCg.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;",
+       "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAQQYAeyJ0aXRsZSI6Ik5FV1M6IEZPWCBORVdTIChsOnNheXBvcHVsYXIpIiwidHZnX2lkIjoiRm94Lk5ld3MuQ2hhbm5lbC5IRFRWLihFYXN0KS4oRk5DSEQpLnVzIiwidHZnX2NoIjoiIiwibG9nbyI6Imh0dHA6Ly9zYXlwb3B1bGFyLmNvbToyNTQ2MS9pbWFnZXMvOTI5M2I1YzNkMTgxMzkwNGFiMTQ5NTIxYjY3YWU3YzMucG5nIiwiZ3JvdXAiOiJORVdTIn0H7FEK.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;"
+    ]
+  },
+  {
+    "id": "FYI.USA.-.Eastern.us",
+    "name": "FYI FHD",
+    "links": [
+      "http://143.244.60.97/FYI/index.m3u8"
+    ]
+  },
+  {
+    "id": "Game.Show.Network.-.East.us",
+    "name": "GAME SHOW NETWORK",
+    "links": [
+      "http://212.102.60.231/GAME_SHOW_NETWORK/index.m3u8"
+    ]
+  },
+  {
+    "id": "HGTV.USA.-.Eastern.Feed.us",
+    "name": "HGTV",
+    "links": [
+      "http://143.244.60.97/HGTV/index.m3u8"
+    ]
+  },
+  {
+    "id": "INSP.us",
+    "name": "INSP TV",
+    "links": [
+      "http://143.244.60.97/INSP/index.m3u8"
+    ]
+  },
+  {
+    "id": "ION..-.Eastern.Feed.us",
+    "name": "ION",
+    "links": [
+      "http://143.244.60.97/ION_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "ION.Plus.TV.us",
+    "name": "ION Plus",
+    "links": [
+      "http://195.181.163.243/ION_Plus/index.m3u8"
+    ]
+  },
+  {
+    "id": "LOGO.-.East.us",
+    "name": "Logo",
+    "links": [
+      "http://streamsy.online:2999/live/venomj/EmoOmOskzq/952.m3u8"
+    ]
+  },
+  {
+    "id": "Motor.Trend.HD.us",
+    "name": "MotorTrend",
+    "links": [
+      "http://143.244.60.97/MOTOR_TREND/index.m3u8"
+    ]
+  },
+  {
+    "id": "MSG.(Madison.Square.Gardens).us",
+    "name": "MSG",
+    "links": [
+      "http://195.181.163.243/MSG/index.m3u8"
+    ]
+  },
+  {
+    "id": "MTV.USA.-.Eastern.Feed.us",
+    "name": "MTV",
+    "links": [
+      "http://143.244.60.97/MTV/index.m3u8",
+      "http://23.237.104.106:8080/USA_MTV/index.m3u8",
+      "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAEQUAeyJ0aXRsZSI6IlVTQS1TRCB8IE1UViAobDp3ZWIyNCkiLCJ0dmdfaWQiOiJNVFYudXMiLCJ0dmdfY2giOiIiLCJsb2dvIjoiaHR0cDovL2VwZy5vcGhpb24uZmVyYWxob3N0aW5nLmNvbS9sb2dvcy9VU0EvTVRWLnVzLnBuZyIsImdyb3VwIjoiTE9XIEJBTkRXSURUSCBDSEFOTkVMUyJ9Yw6MIg.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;",
+      "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQARQYAsswuJuCszgEU9FLZtFDjzr0CuuiK9Aly8MA5uwA9YoKQPOPnDGaYYd4LE7-XlWVTQ0A2cDUAqbKJkhCD6_Zjg8iQ3zxbxkmp-2DoA5BAkzCQehuIQD1UR0DBgpYdDI67IqXlTWMVjlQdWQsKpeCtcrFAFjaBuLZI4uguSyqfs6jVPg-dEkQnFNEpRY5j9bi3d3sxi-Gb397jrMIXyZf95or6TDoHGzJSgRmJ72TJB8akhKwuwHQTbt-F-9uPCAMAOzMkVVfcpaB-igwJ.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;"
+    ]
+  },
+  {
+    "id": "MTV.Classic.-.East.us",
+    "name": "MTV Classic",
+    "links": [
+      "http://streamsy.online:2999/live/venomj/EmoOmOskzq/1194.m3u8"
+    ]
+  },
+  {
+    "id": "MTV.Live.HD.us",
+    "name": "MTV Live",
+    "links": [
+      "http://143.244.60.97/MTV_LIVE/index.m3u8"
+    ]
+  },
+  {
+    "id": "MTV.2.-.East.us",
+    "name": "MTV2",
+    "links": [
+      "http://143.244.60.97/MTV_2/index.m3u8"
+    ]
+  },
+  {
+    "id": "MTV-U.(MTV-U).us",
+    "name": "mtvU",
+    "links": [
+      "http://143.244.60.97/MTV_U/index.m3u8"
+    ]
+  },
+  {
+    "id": "Oprah.Winfrey.Network.USA.Eastern.us",
+    "name": "Oprah Winfrey Network",
+    "links": [
+      "http://143.244.60.97/OWN/index.m3u8"
+    ]
+  },
+  {
+    "id": "Ovation.us",
+    "name": "Ovation",
+    "links": [
+      "http://195.181.163.243/Ovation/index.m3u8"
+    ]
+  },
+  {
+    "id": "Oxygen.-.Eastern.Feed.us",
+    "name": "Oxygen",
+    "links": [
+      "http://143.244.60.97/OXYGEN/index.m3u8"
+    ]
+  },
+  {
+    "id": "Paramount.Network.USA.-.Eastern.Feed.us",
+    "name": "Paramount Network",
+    "links": [
+      "http://143.244.60.97/PARAMOUNT_NETWORK/index.m3u8"
+    ]
+  },
+  {
+    "id": "PIXL.us",
+    "name": "Pixl",
+    "links": [
+      "http://195.181.163.243/Pixl/index.m3u8"
+    ]
+  },
+  {
+    "id": "POP.-.East.us",
+    "name": "PopTV",
+    "links": [
+      "http://195.181.163.243/Pop_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "ReelzChannel.us",
+    "name": "ReelzChannel",
+    "links": [
+      "http://143.244.60.97/REELZ/index.m3u8"
+    ]
+  },
+  {
+    "id": "Revolt.TV.us",
+    "name": "Revolt",
+    "links": [
+      "http://143.244.60.97/REVOLT/index.m3u8"
+    ]
+  },
+  {
+    "id": "TBS.-.East.us",
+    "name": "TBS",
+    "links": [
+      "http://143.244.60.97/TBS/index.m3u8",
+      "http://23.237.104.106:8080/USA_TBS/index.m3u8",
+      "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAPQYAsowuJuDKbgAkTWP6LiMmkeUk-gt5AzhC5tE2zwt2ndvBHihnDGOMMTY4D7eXhWGUoyEdtwpEKkZVMkJwvS8mhAj4zTEoPhXvAVKMWagcOlC5nIZYs4CJKR6YDBcAbJsNqwxrI6ReCR0na-FN72qXDChZEArDpU0TaOTw5NJBC0o7iubDkOYjTfNhTBDUo5iz5f0Qh9-bv2_Z-qCT4Ex-8wSNKJxCfwiZuAh5LWVJW13pIKt1KGvwPvflLr8hAwA7MyRVV9yloFrGHRk.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;",
+      "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAWQYAeyJ0aXRsZSI6IlVTQSB8VEJTIChsOnNheXBvcHVsYXIpIiwidHZnX2lkIjoiVEJTLlN1cGVyc3RhdGlvbi5IRFRWLihFYXN0KS4oVEJTSEQpLnVzIiwidHZnX2NoIjoiIiwibG9nbyI6Imh0dHA6Ly9zYXlwb3B1bGFyLmNvbToyNTQ2MS9pbWFnZXMvZWU2NTFmNDM0NGEyZjQyYTIyMDlkOWZlZWU3YWE4YjIucG5nIiwiZ3JvdXAiOiJFTElURSBTVFJFQU1TIn00ppF7.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;"
+    ]
+  },
+  {
+    "id": "TV.Land.-.Eastern.us",
+    "name": "TVLand",
+    "links": [
+      "http://143.244.60.97/TV_Land/index.m3u8"
+    ]
+  },
+  {
+    "id": "TV.One.us",
+    "name": "TVOne",
+    "links": [
+      "http://143.244.60.97/TV_ONE/index.m3u8"
+    ]
+  },
+  {
+    "id": "UP.us",
+    "name": "UPtv",
+    "links": [
+      "http://195.181.163.243/Up_Tv/index.m3u8"
+    ]
+  },
+  {
+    "id": "USA.Network.-.East.Feed.us",
+    "name": "USA Network",
+    "links": [
+      "http://143.244.60.97/USA_Network/index.m3u8"
+    ]
+  },
+  {
+    "id": "VH1.-.Eastern.Feed.us",
+    "name": "VH1",
+    "links": [
+      "http://143.244.60.97/VH1/index.m3u8"
+    ]
+  },
+  {
+    "id": "VICE.us",
+    "name": "Vice",
+    "links": [
+      "http://143.244.60.97/VICELAND/index.m3u8"
+    ]
+  },
+  {
+    "id": "WE.(Women&apos;s.Entertainment).-.Eastern.us",
+    "name": "WeTV",
+    "links": [
+      "http://143.244.60.97/WE_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "Crime.and.Investigation.Network.USA.HD.us",
+    "name": "Crime + Investigation",
+    "links": [
+      "http://195.181.163.243/Crime_and_Investigation_Network/index.m3u8"
+    ]
+  },
+  {
+    "id": "Curiosity.Channel(Stream).us",
+    "name": "Curiosity Stream",
+    "links": [
+      "http://195.181.163.243/Curiosity_Stream/index.m3u8"
+    ]
+  },
+  {
+    "id": "Destination.America.us",
+    "name": "Destination America",
+    "links": [
+      "http://195.181.163.243/Destination_America/index.m3u8"
+    ]
+  },
+  {
+    "id": "Discovery.Channel.(US).-.Eastern.Feed.us",
+    "name": "Discovery Channel",
+    "links": [
+      "http://195.181.163.243/Discovery_Channel/index.m3u8"
+    ]
+  },
+  {
+    "id": "Discovery.Life.Channel.us",
+    "name": "DISCOVERY LIFE",
+    "links": [
+      "http://143.244.60.97/DISCOVERY_LIFE/index.m3u8"
+    ]
+  },
+  {
+    "id": "Science.us",
+    "name": "Discovery Science",
+    "links": [
+      "http://195.181.163.243/Discovery_Science/index.m3u8"
+    ]
+  },
+  {
+    "id": "Magnolia.-.East.us",
+    "name": "DIY",
+    "links": [
+      "http://143.244.60.97/DIY/index.m3u8"
+    ]
+  },
+  {
+    "id": "History.Channel.US.-.Eastern.Feed.us",
+    "name": "History",
+    "links": [
+      "http://streamsy.online:2999/live/venomj/EmoOmOskzq/153.m3u8"
+    ]
+  },
+  {
+    "id": "Investigation.Discovery.USA.-.Eastern.us",
+    "name": "ID (Investigation Discovery)",
+    "links": [
+      "http://143.244.60.97/INVESTIGATION_DISCOVERY/index.m3u8"
+    ]
+  },
+  {
+    "id": "National.Geographic.US.-.Eastern.us",
+    "name": "National Geographic",
+    "links": [
+      "http://143.244.60.97/National_Geographic/index.m3u8"
+    ]
+  },
+  {
+    "id": "National.Geographic.Wild.us",
+    "name": "National Geographic Wild",
+    "links": [
+      "http://143.244.60.97/Nat_Geo_Wild/index.m3u8"
+    ]
+  },
+  {
+    "id": "Outdoor.Channel.US.us",
+    "name": "Outdoor Channel",
+    "links": [
+      "http://143.244.60.97/OUTDOOR_CHANNEL/index.m3u8"
+    ]
+  },
+  {
+    "id": "Smithsonian.Channel.USA.HD.us",
+    "name": "SMITHSONIAN CHANNEL",
+    "links": [
+      "http://143.244.60.97/SMITHSONIAN_CHANNEL/index.m3u8"
+    ]
+  },
+  {
+    "id": "TLC.USA.-.Eastern.us",
+    "name": "TLC",
+    "links": [
+      "http://143.244.60.97/TLC/index.m3u8"
+    ]
+  },
+  {
+    "id": "Travel.US.-.East.us",
+    "name": "Travel Channel",
+    "links": [
+      "http://143.244.60.97/Travel_Channel/index.m3u8"
+    ]
+  },
+  {
+    "id": "World.Fishing.Network.(US).(WFN).us",
+    "name": "WORLD FISHING NETWORK",
+    "links": [
+      "http://143.244.60.97/WORLD_FISHING_NETWORK/index.m3u8"
+    ]
+  },
+  {
+    "id": "Boomerang.us",
+    "name": "Boomerang",
+    "links": [
+      "http://195.181.163.243/BOOMERANG/index.m3u8"
+    ]
+  },
+  {
+    "id": "Cartoon.Network.USA.-.Eastern.Feed.us",
+    "name": "CARTOON NETWORK",
+    "links": [
+      "http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8",
+      "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_UQACQAVBwDSTjUm8Ip4AJIklRmqFGOWBpbcQY7IeDZmcABXEgNxGzTpiw84A8_AiwoRr21tWXly1IlLA5tk5ahu1378J8Wc9F--lyeTMwFCtB1GSLxTwfdZLoEMP47BgO2DTIsVKMB5Hinl5FYUFkApcB1jeJ5mRlzv0Erijwe9eiGxEt6RlRLSVaRhdxfSoGCHkGKzeB7sOJZpQJaBrmUat2kweqZp-PjNbo6__OMPPfyJj15Jf3nF40TABTwmqoInKteyrlR2bVxb1bounmVHhaiSBpA1g8cPjqmY_kMDEAUig4rX9QUF_4Jzqw.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;",
+      "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQABQQAEsgaHWBBKwCQDmupxa20VW4kZUR0xeWOvsusMXcV_eoEAW6SRnD6RYXMyMy9tNFwBqJ2_fgayXpzUTFPaZXpolTu-xWnleliZKcVZGNyOmkIxtzIgkVrFny-wElAVXwVjlM9PAYnDQen1_J2AwQGADBwO0ZoCSMDlR2pbCllCgoJEjyv.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;"
+    ]
+  },
+  {
+    "id": "Discovery.Family.Channel.us",
+    "name": "DISCOVERY FAMILY CHANNEL",
+    "links": [
+      "http://143.244.60.97/DISCOVERY_FAMILY_CHANNEL/index.m3u8"
+    ]
+  },
+  {
+    "id": "Nickelodeon.USA.-.East.Feed.us",
+    "name": "Nickelodeon",
+    "links": [
+      "http://143.244.60.97/NICKELODEON/index.m3u8"
+    ]
+  },
+  {
+    "id": "Nick.Jr..-.East.us",
+    "name": "NickJr",
+    "links": [
+      "http://143.244.60.97/NICK_JR/index.m3u8"
+    ]
+  },
+  {
+    "id": "Nick.Music.(NICM).us",
+    "name": "NickMusic USA",
+    "links": [
+      "http://143.244.60.97/NICK_MUSIC/index.m3u8"
+    ]
+  },
+  {
+    "id": "Nicktoons.-.East.us",
+    "name": "NickToons",
+    "links": [
+      "http://143.244.60.97/NICKTOONS/index.m3u8"
+    ]
+  },
+    {
+      "id": "FX.Networks.East.Coast.us",
+      "name": "FX",
+      "links": [
+        "http://23.237.104.106:8080/USA_FX/index.m3u8",
+        "http://143.244.60.97/FX/index.m3u8",
+        "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAlQUA8gspIyBrbACHmQgRfPlocaHQQYgGS4fDEzqicIid9g-xt0AAQgA0D48MnOdAio5HKkA8b5e1s3flbyEXYEEuCxPAjzG3YRaG6tcIaoJYoOGGFbB6UZ6LxrBOsIOVJaECNvhlvQ5WFgYVsLGV6ygrc5uS0uvt_Tpe-duvxKybIJvQ6R5kE6QBgp2gt1eQegx65UnmYpUtGdxsETkmyOFwIoS3W5FC-oYDAOFOFJFKwtNOKK5wn0s.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;"
+      ]
+    },
+    {
+      "id": "5.Star.Max.-.Eastern.us",
+      "name": "cinemax 5star",
+      "links": [
+        "http://23.237.104.106:8080/USA_5STARMAX/index.m3u8",
+        "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAqQUAeyJ0aXRsZSI6IlVTQSB8IENJTkVNQVggNSBTVEFSTUFYIChsOnZvbHRzdHJlYW1zKSIsInR2Z19pZCI6IjVzdGFybWF4LnVzIiwidHZnX2NoIjoiIiwibG9nbyI6Imh0dHBzOi8vY2RuLmlwdHZib3NzLnByby9sb2dvcy9VU0EvQ2luZW1heDVTdGFyTWF4LnVzLnBuZyIsImdyb3VwIjoiSEQgUFJFTUlVTSBNT1ZJRVMifcoCmgg.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;",
+        "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQACQUAeyJ0aXRsZSI6IlVTIDUgU3Rhck1heCAobDpmb3J0dikiLCJ0dmdfaWQiOiI1c3Rhcm1heC51cyIsInR2Z19jaCI6IiIsImxvZ28iOiJodHRwczovL2Nkbi50dnBhc3Nwb3J0LmNvbS9pbWFnZS9zdGF0aW9uLzI0MHgxMzUvNW1heC5wbmciLCJncm91cCI6Ik1PVklFIE5FVFdPUktTIn0wMY6U.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;"
+      ]
+    },
+   {
+      "id": "A.and.E.US.-.Eastern.Feed.us",
+      "name": "A&E",
+      "links": [
+        "http://23.237.104.106:8080/USA_AE/index.m3u8",
+        "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAKQUAeyJ0aXRsZSI6IlVTQS1TRCB8IEFcdTAwMjZFIChsOndlYjI0KSIsInR2Z19pZCI6IkFhbmRFTmV0d29yay51cyIsInR2Z19jaCI6IiIsImxvZ28iOiJodHRwczovL2ltZ3guZnViby50di9zdGF0aW9uX2xvZ29zL2FfZV9jLnBuZyIsImdyb3VwIjoiTE9XIEJBTkRXSURUSCBDSEFOTkVMUyJ9lh8iyQ.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;",
+        "vlc://m3uproxy.media4u.top/p/m3u-stream/live/internal/internal/KLUv_QQAxQIAtAR7InRpdGxlIjoiQ0E6IEFcdTAwMjZFIChsOjF0djQxKSIsInR2Z19pZCI6ImFhbmRlLmNhY2giOiIiLCJsb2dvZ3JvdXBOQURBIn0DAE4QumUkumxCARzr2U8.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;"
+      ]
+    },
+   {
+      "id": "ABC.NEWS.us",
+      "name": "ABC News Live",
+      "links": [
+        "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
+        "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAWQUAeyJ0aXRsZSI6Ik5FV1M6IEFCQyBOZXdzIChsOnNheXBvcHVsYXIpIiwidHZnX2lkIjoiQUJDTkVXUy51cyIsInR2Z19jaCI6IiIsImxvZ28iOiJodHRwOi8vc2F5cG9wdWxhci5jb206MjU0NjEvaW1hZ2VzL2Y0YmU3MDI5NzM1MGM0MWEzYmNkNTU3NTkxYmFhN2JkLnBuZyIsImdyb3VwIjoiTkVXUyJ9iI8Cdw.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;",
+        "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAmQUAeyJ0aXRsZSI6IlVTQSB8QUJDIE5ld3MgKGw6c2F5cG9wdWxhcikiLCJ0dmdfaWQiOiJBQkNORVdTLnVzIiwidHZnX2NoIjoiIiwibG9nbyI6Imh0dHA6Ly9zYXlwb3B1bGFyLmNvbToyNTQ2MS9pbWFnZXMvMzYwYjA2NWFiYmFjN2NiMWIzZjA2OTE2ZTBkYzJmZmEucG5nIiwiZ3JvdXAiOiJFTElURSBTVFJFQU1TIn0neSy2.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;"
+      ]
+    },
+   {
+      "id": "ACC.Network.us",
+      "name": "Acc Network",
+      "links": [
+        "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQARQUAIosmIkBr8_uU5VXSDLqtWNPCXgoDFrWBC1Q5fDiZpkEslWEYwA0Ry2Aog4aiHCRKLbZp33EaV7ER8ijA4QUKCAY4Rhrk0WVjCQuLxlB_KmRtLcXvwQ9umM5SuYH4nO5g1w9-M_1wpI5cPzib6Qc95_Id5tR8rcum9ehycWza1y1G6ioWgDrpvP-Da5JMJAgKCkNjwZK11KaFsnZdiAMAIlErvgwMzwoUDtsgYA.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;",
+        "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAVQUA4gonJBBrqgD_-sFYknvDglkmAzrR1VxdOzOQjydQ9WWvFS8AAAAAHBGPCCBUIEUMkgQGoPfxdat65XUBN2fx3qOgT6OgkpFUJhLkY5qp4cy5zGeanEWrfFBueQmH6cedzbnGOTvev_XaK3_fMa2rJYwYIdIOJICA1mKE7zcohMqQrzyppL3wxQ7Saoswheo2ZMpgMUIIBiOD96nNVP5DAwCisJukcs2UqT1QN25m.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;"
+      ]
+    },
+   {
+      "id": "AccuWeather.us",
+      "name": "AccuWeather",
+      "links": [
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8"
+      ]
+    },
+   {
+      "id": "ActionMax.-.Eastern.us",
+      "name": "ActionsMax",
+      "links": [
+        "http://143.244.60.97/STARZ_ENCORE_ACTION/index.m3u8",
+        "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAfQUAQksoJBCJqgBf8Je5ROQ8IZqyIFHEW_k8dwhwTvPCTuZa8QIAAADAAQt_qJwC0MMmBBAw38fXjdgvtxDcmjoxjalpDogoIR6UHEZ8kIkmBoyOIR6esyRbH5QzwOcw_bhRc65xzo73r73Vl7_viKyrKQnFgsqkKdmqM2kEUELRFpK-36AKrEH-ciVSqwtfjFCtrhJ2UCmDXCpHUoHJZ-B9qcpUfkIDAK6wm0_lQWhQe06YrrU.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;",
+        "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_UQAAQAJCAB7InRpdGxlIjoiVVNBLVNEIHwgQ0lORU1BWCBBQ1RJT04gTUFYIChUKSAobDp3ZWIyNCkiLCJ0dmdfaWQiOiJVUzogQUNUSU9OTUFYIiwidHZnX2NoIjoiIiwibG9nbyI6Imh0dHBzOi8vODkuMTg3LjE3OS4xMjI6NDQzL2ltYWdlcy9hOFpMeWJNRTdudm1aVGoxajNFOHM0X1RETXNaZ1hCb1NjYzZQZ1hxSzBQZEktaVFDelVTNklsMG92R2xQdGR6ajJJYmhfV3M5Y0VxUTFUaWpZRjZMZy5wbmciLCJncm91cCI6IkxPVyBC.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;"        
+      ]
+    },
+   {
+      "id": "AMC.-.Eastern.Feed.us",
+      "name": "AMC",
+      "links": [
+        "http://23.237.104.106:8080/USA_AMC/index.m3u8",
+        "http://212.102.60.231/AMC_NETWORK/index.m3u8",
+        "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAUQQAeyJ0aXRsZSI6IlVTQSB8IEFNQyBSVVNIIChsOndlYjI0KSIsInR2Z19pZCI6IiIsInR2Z19jaCI6IiIsImxvZ28iOiJodHRwczovL2kuaWJiLmNvL3pKdmtqUmsvcnVzaC1ieS1hbWMtdXMucG5nIiwiZ3JvdXAiOiJNT1ZJRSBORVRXT1JLUyJ9wt177A.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;",
+        "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAOQcAeyJ0aXRsZSI6IlVTQSB8IEFNQyBUSFJJTExFUlMgKGw6d2ViMjQpIiwidHZnX2lkIjoiNWUyYjczZjJmOGQ1M2Q3MzlkYjctNWZjNzVlMmEyMjM2ZTJkNjlmMzZkIiwidHZnX2NoIjoiIiwibG9nbyI6Imh0dHBzOi8vcHJvdmlkZXItc3RhdGljLnBsZXgudHYvOC9lcGcvY2hhbm5lbHMvbG9nb3MvZ3JhY2Vub3RlLzg2NjI2MjNlMmIxODJmN2FjOWU1MTFiZDc1NDI1YWU0LnBuZyIsImdyb3VwIjoiUExFWCJ9SNAwpA.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;",
+        "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAcQYAeyJ0aXRsZSI6IlVTQS1TRCB8IEFNQyAoVCkgKGw6d2ViMjQpIiwidHZnX2lkIjoiVVM6IEFNQyIsInR2Z19jaCI6IiIsImxvZ28iOiI4OS4xODcuMTc5LjEyMjo0NDMvaW1hZ2VzL2E4Wkx5Yk1FN252bVpUajFqM0U4czRfVERNc1pnWEJvU2NjNlBnWHFLME41Zm1yb2RzOVBZT0Z1MnhLMnk3R0UucG5nIiwiZ3JvdXAiOiJMT1cgQkFORFdJRFRIIENIQU5ORUxTIn3IATmP.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;" 
+      ]
+    },
+   {
+      "id": "AMC+.us",
+      "name": "AMC+",
+      "links": [
+        "https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8",
+        "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAaQUAeyJ0aXRsZSI6IlVTQSB8QU1DICsgKGw6c2F5cG9wdWxhcikiLCJ0dmdfaWQiOiJBTUMrLnVzIiwidHZnX2NoIjoiIiwibG9nbyI6Imh0dHA6Ly9zYXlwb3B1bGFyLmNvbToyNTQ2MS9pbWFnZXMvMTI1NjJlMDZlN2MxMzE3ZDM1MTM3NWM4Mjg5MzdiYzYucG5nIiwiZ3JvdXAiOiJFTElURSBTVFJFQU1TIn2pSHeK.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;"     
+      ]
+    },
+   {
+      "id": "American.Heroes.Channel.us",
+      "name": "AHC",
+      "links": [
+        "http://195.181.163.243/American_Heroes_Channel/index.m3u8",
+        "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAhQUAIksnIyBpqgAPxGaVdLVII5FrFi5spCNIdX-3Dwo9bFuB1QWABAcBDXcIYFPAcFbDEBho3sfVneqRVwkzhICZNBJmvqlIRjbmZBDLkkg4F5X3npONojVGUEsA3KJ0dCVrrXHOz_u3Xnvk7z-SqthBsYAHY-z9CR3UhHzkhynaCl-sEKm2x7JUkuKjWBS9E10sKUpoohFkWNAxeJ_aDOUvBAUArrDbU_mqylfVYEElVBQ79QS1.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;",
+        "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQATQMA8gUVGnBJHCCKZWmFktmULQKH34SWqzAq4_VUVWcGiyeFICjJes1On-Yffx6Z9gIG6fOGVDgI9-MApvxWr4S2ZAN5lVKEYNtmO0ClJrE9FMyCPL_skrsiBgByELplpKPyTDVH1WVBzVQUpYxkhA.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;"        
+      ]
+    },
+   {
+      "id": "Animal.Planet.US.-.East.us",
+      "name": "Animal Planet",
+      "links": [
+        "http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8",
+        "http://143.244.60.97/Animal_Planet/index.m3u8",
+        "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_UQACgD1BgCyTjQl8KjWAAQrDHo62noqE1dcBh7GquosGEBZQnjVgvbFs7A4LA4vBAtvTZLWWREwFTtaXJHOiXk1psc_HnQD_spzyLhMuK1mAwRdvJqGo5kIVJbknR3BhwFd16N6fDAtioQ1bHrVMCIPXj0cZ_XEg2MkFe3MIa-EACm4MVECsRK1IUzY1Riy45r4MQjHwbXSBbJ0sZcu0GUYTI5l6T3-znv4yj9-j8MFX8Yl5St_cOrWTXBomIdtmNvK0tySzlM1p0wtdJ4KM7IAsuV4_F1YfuUnBAMQBSWDmZfxBQU_RCyM.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;"        
+      ]
+    },
+   {
+      "id": "ASPiRE.TV.us",
+      "name": "Aspire",
+      "links": [
+        "http://195.181.163.243/Aspire/index.m3u8",
+        "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAAQYAeyJ0aXRsZSI6IlVTQSB8QXNwaXJlIFRWIChsOnNheXBvcHVsYXIpIiwidHZnX2lkIjoiQVNQaVJFLlNEVFYuKEFTUFJFKS51cyIsInR2Z19jaCI6IiIsImxvZ28iOiJodHRwOi8vc2F5cG9wdWxhci5jb206MjU0NjEvaW1hZ2VzL2RkZDU0MDdkN2Y2ZjZjZDk4YjA5NGVlZDU2YWRlZDU4LnBuZyIsImdyb3VwIjoiRUxJVEUgU1RSRUFNUyJ9Yh4CmQ.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;",
+        "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAgQQAeyJ0aXRsZSI6IlVTQS1TRCB8IEFTUElSRSAobDp3ZWIyNCkiLCJ0dmdfaWQiOiJBU1BpUkUudXMiLCJ0dmdfY2giOiIiLCJsb2dvIjoiaHR0cHM6Ly9pLmltZ3VyLmNvbS9UOE9XNXRILnBuZyIsImdyb3VwIjoiTE9XIEJBTkRXSURUSCBDSEFOTkVMUyJ9zfS1iQ.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;"        
+      ]
+    },
+   {
+      "id": "Baby.First.TV.us",
+      "name": "Baby First",
+      "links": [
+        "https://lte.wiseplayout.com/WiseM3U8_12/master.m3u8",
+        "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAUQUAeyJ0aXRsZSI6IlVTIEJBQlkgRklSU1QgSEQgKGw6dm9sdHN0cmVhbXMpIiwidHZnX2lkIjoiQmFieUZpcnN0LnVzIiwidHZnX2NoIjoiIiwibG9nbyI6Imh0dHBzOi8vdXBsb2FkLndpa2ltZWRpYS5vcmcvd2lraXBlZGlhL2VuLzAvMDQvQmFieUZpcnN0X0xvZ28ucG5nIiwiZ3JvdXAiOiJLSURTIn2d4Vnq.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;",
+        "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQA1QMA0ocbHlBtBfeC7OXssUGIbnuOdfAPmUmpUcrFwNBdRUCgAZU3QmP4fkKYwqvDx2QOdhbljs-LesbFkCVjW2c39D1Dllf_HnIqZEXdlcaGxDHc909cwKivHhgI3IusBCREOzSFpGAWJlHS0hLfP9mxPwkCABsCL97Z3AMnmbp7.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;"        
+      ]
+    },
+   {
+      "id": "Baby.TV.(Dish).(BABYT).us",
+      "name": "Babytv",
+      "links": [
+        "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAfQQAUkkgIEBBVQCnfu26JUKju2TrhwTOQEgiIfE8OjwwBRQlTllAA2ckFIuzzyoleOSEgFlAGBZGczFL1TRlD8km20DV6Y3eNnZv8sPUQkmuxu5B_DC1XJNx1l1GZ7dzdgllPPKzOwC0LmZx3IBTH_mAQu1JTTvKiUXBwSxH1TTl7C829wUCAwAVzR1xZi2TqTKBYew9.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;",
+        "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAGQQAeyJ0aXRsZSI6IlVTQSB8IEJBQlkgVFYgKGw6d2ViMjQpIiwidHZnX2lkIjoiYmFieXR2LnVzIiwidHZnX2NoIjoiIiwibG9nbyI6Imh0dHBzOi8vbG9nby5pcHR2ZWRpdG9yLmNvbS9iYWJ5dHYucG5nIiwiZ3JvdXAiOiJLSURTIn0sQdHW.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;",
+        "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAsQUAeyJ0aXRsZSI6IlVTOiBCQUJZIFRWIChsOnNheXBvcHVsYXIpIiwidHZnX2lkIjoiQmFieS5UVi4oVUspLihCQUJZVFYpLnVzIiwidHZnX2NoIjoiIiwibG9nbyI6Imh0dHA6Ly9zYXlwb3B1bGFyLmNvbToyNTQ2MS9pbWFnZXMvYmQ4YzljYTE5ZWI5Yzg0ZDZlMDI5YzE1N2IzMjQxMTkucG5nIiwiZ3JvdXAiOiJLSURTIn2nevgU.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;"        
+      ]
+    },
+   {
+      "id": "BBC.America.-.East.us",
+      "name": "BBC America",
+      "links": [
+        "http://143.244.60.97/BBC_AMERICA/index.m3u8",
+        "https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8",
+        "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAbQUAQssnIzBLVQDLlhOelB-Lgu1cgQMQax4KQflbREpYg4dn7iMyIkIQEX8MGOcAepgDERQ459urVvTJKYNts-HyGInlSQXKhdJvQRHB1wEAj7HAaC6cNWlTkktAxVOYqrI5x_bexvmV1unJz29I62pIE-PRkGu1c7QESGCgtSbG8yNJgTbcJ0eqni5brUNbPB2spVRNimFNjBCMeRDOn9OV7h8CAwCusNunMsuUKSi_1te1.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;"        
+      ]
+    },
+   {
+      "id": "BET.-.Eastern.Feed.us",
+      "name": "bet",
+      "links": [
+        "http://143.244.60.97/BET_EAST/index.m3u8",
+        "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQA2QYAeyJ0aXRsZSI6IlVTQS1TRCB8IEJFVCAoVCkgKGw6d2ViMjQpIiwidHZnX2lkIjoiVVM6IEJFVCBFQVNUIiwidHZnX2NoIjoiIiwibG9nbyI6Imh0dHBzOi8vODkuMTg3LjE3OS4xMjI6NDQzL2ltYWdlcy9hOFpMeWJNRTdudm1aVGoxajNFOHM0X1RETXNaZ1hCb1NjYzZQZ1hxSzBPRl9VSmV6dTFOb0FCLUh3NnExOWlkLnBuZyIsImdyb3VwIjoiTE9XIEJBTkRXSURUSCBDSEFOTkVMUyJ9QtAXHQ.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;",
+        "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAuQQAeyJ0aXRsZSI6IlVTQS1TRCB8IEJFVCAobDp3ZWIyNCkiLCJ0dmdfaWQiOiJCRVQudXMiLCJ0dmdfY2giOiIiLCJsb2dvIjoiaHR0cHM6Ly9pbWd4LmZ1Ym8udHYvc3RhdGlvbl9sb2dvcy9iZXRfYy5wbmciLCJncm91cCI6IkxPVyBCQU5EV0lEVEggQ0hBTk5FTFMifc_tubI.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;"        
+      ]
+    },
+{
+  "id": "BET.Her.us",
+  "name": "BET Her",
+  "links": [
+    "http://212.102.60.231/BET_HER/index.m3u8",
+    "http://143.244.60.97/BET_HER/index.m3u8",
+    "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAQQUAeyJ0aXRsZSI6IlVTQSB8IEJFVCBIRVIgKGw6d2ViMjQpIiwidHZnX2lkIjoiQkVUSGVyLnVzIiwidHZnX2NoIjoiIiwibG9nbyI6Imh0dHBzOi8vaW1hZ2VzLnBsdXRvLnR2L2NoYW5uZWxzLzVkNTFlNjk0OWFiOGUyYjM1YmRjYWE5Zi9jb2xvckxvZ29QTkcucG5nIiwiZ3JvdXAiOiJQTFVUTyJ9pQVSWg.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;"
+  ]
+},
+{
+  "id": "Court.TV.US.us",
+  "name": "CourtTV",
+  "links": [
+    "https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8",
+    "http://195.181.163.243/COURT_TV/index.m3u8",
+    "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAUQUAeyJ0aXRsZSI6IlVTQSB8IENPVVJUIFRWIChsOndlYjI0KSIsInR2Z19pZCI6IkNvdXJ0VFYudXMiLCJ0dmdfY2giOiIiLCJsb2dvIjoiaHR0cHM6Ly9pbWFnZXMucGx1dG8udHYvY2hhbm5lbHMvNWRhZTBiNDg0MWE3ZDAwMDA5MzhkZGJkL2NvbG9yTG9nb1BORy5wbmciLCJncm91cCI6IlBMVVRPIn17efGP.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;"
+  ]
+},
+{
+  "id": "Disney.-.Eastern.Feed.us",
+  "name": "Disney Channel",
+  "links": [
+    "http://212.102.60.231/DISNEY_CHANNEL/index.m3u8",
+    "http://143.244.60.97/DISNEY_CHANNEL/index.m3u8",
+    "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAeQYAeyJ0aXRsZSI6IlVTOiBESVNORVkgQ0hBTk5FTCAgKGw6c2F5cG9wdWxhcikiLCJ0dmdfaWQiOiJUaGUuRGlzbmV5LkNoYW5uZWwuSERUVi4oRWFzdCkuKERJU0hEKS51cyIsInR2Z19jaCI6IiIsImxvZ28iOiJodHRwOi8vc2F5cG9wdWxhci5jb206MjU0NjEvaW1hZ2VzLzEyODVmODFhMWU2YjdiOTgwYTQwYmYwZjJiNzM4NjNmLnBuZyIsImdyb3VwIjoiS0lEUyJ9y89bYw.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;"
+  ]
+},
+{
+  "id": "Disney.XD.USA.-.Eastern.Feed.us",
+  "name": "Disney XD",
+  "links": [
+    "http://212.102.60.231/DISNEY_XD/index.m3u8",
+    "http://143.244.60.97/DISNEY_XD/index.m3u8",
+    "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQA3QQAQooiIFBpqwAjHrTN5o1tzNjRwp4Gs2iVAFEhjuaCcfmrqqqaCz9IBQZHj5MZd-NuieeAEI8Doa6RZ0DgQKiDSohSgkQTTeBUWuXCEHJC17IWV7ELdQyftazBVezisMUvTlUkY7dydHb8bvzoSkLOkxC2yjV94wESrsa07McNegCGhBgS2iI3Hb293r5CBAB9KCeDh43O_IgKpQfkdULd.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;"
+  ]
+},
+{
+  "id": "Freeform.-.East.Feed.us",
+  "name": "Freeform",
+  "links": [
+    "http://212.102.60.231/FREE_FORM/index.m3u8",
+    "http://143.244.60.97/FREE_FORM/index.m3u8",
+    "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQA3QYAUo4zJeDI1gBknN5g8LbaHjFDxCAfpUDINhYkqSRvPptkFD9nMMMM814Lr6lsWRJjgDI2JsiwJS1o5qD-flkhKfyZ55OyuTQSYN27AKNojGW8rHB26pVUitrc2LSqZkl81xceeB92BTRMjV8CXafJhca3s8IbEp02I8RH3JvEMqm5iiBQm-Wc0-OcJHQQUXQh6GkU9WmqfRqFdZx7lr2Df5_k5PjM_32w21rK1yCEcEt_5g8RFPEudzTQwzbQ6uGYcn5MVIFiDSBp7O97Yw_7JwQDEAUgU9orroUCpqgTWA.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;"
+  ]
+},
+{
+  "id": "Galavision.-.Eastern.Feed.us",
+  "name": "Galavision",
+  "links": [
+    "https://dai.google.com/linear/hls/event/4SHc_fddRJKEQ6UG_mtpjQ/master.m3u8",
+    "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQA1QQAMoojIjBJVQCbCzRCL92y2iyM1eoipTw8cAWxDpNyKr66GhgYhgENh4vAey4JUMnAoTjHcwDKYZa3X6kjeePS3sUcbBhu2ZUlNLSkpRn3rE8UEZZtOm8veSNj7eY8396y642_fUJYWrYpptNTH-TtB7RATvnGEQuFQVRo9aAeo0CFwC0OUQzqgAkHm7fHmmn-QgIAPIUDAGfzDO9otD0.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;"  
+  ]
+},
+{
+  "id": "HBO.Family.-.Eastern.Feed.us",
+  "name": "HBO Family",
+  "links": [
+    "http://212.102.60.231/HBO_FAMILY/index.m3u8",
+    "http://143.244.60.97/HBO_FAMILY/index.m3u8",
+    "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQA7QYAgg40JgCpeAAPfKiZnAVqPrABmd9AuiOvjVo6IVzhmkMdrhS_Lv3__wsBDa4zxrBrBVBLqxqQCrsUhWTZrY8IIvnO-FvG5sFtX75Nfu_ADnQGcthZDhgwNlm3_VHGetKMnXVh4iIfCsdl-weA52mR2p4rr0rrainhBeWhaFzltET4kihkToo4JfiRSugsarUQ9DRT9DSR9DST5Di2HE1z4tbFF7cz7tYnnv3C7k_TGUdUSAIm2H2gCO1ANX0xLciN6wrQjLIoA6104moCtw5uMzR9IQMAPTNAZTfrpaCRNvuO.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;"
+  ]
+},
+    {
+  "id": "Telemundo..-.Eastern.Feed.us",
+  "name": "Telemundo",
+  "links": [
+    "http://168.181.122.234:8000/play/a011/index.m3u8"
+  ]
+},
+{
+  "id": "PBS.-.Network.HD.-.Eastern.us",
+  "name": "PBS",
+  "links": [
+    "https://wnetdt.lls.pbs.org/out/v1/0456457548354b88b32fc437e4e7ee01/index.m3u8"
+  ]
+},
+{
+  "id": "truTV.USA.-.Eastern.us",
+  "name": "TruTV",
+  "links": [
+    "https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8",
+    "http://143.244.60.97/TRU_TV/index.m3u8"
+  ]
+},
+{
+  "id": "Syfy.-.Eastern.Feed.us",
+  "name": "Syfy",
+  "links": [
+    "http://212.102.60.231/SYFY/index.m3u8",
+    "http://143.244.60.97/SYFY/index.m3u8"
+  ]
+},
+{
+  "id": "Nick.Music.us",
+  "name": "NickMusic",
+  "links": [
+    "http://212.102.60.231/NICK_MUSIC/index.m3u8"
+  ]
+},
+{
+  "id": "QVC3.us",
+  "name": "QVC3",
+  "links": [
+    "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8"
+  ]
+},
+{
+  "id": "TNT.-.Eastern.Feed.us",
+  "name": "TNT",
+  "links": [
+    "https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8",
+    "http://143.244.60.97/TNT/index.m3u8",
+    "http://23.237.104.106:8080/USA_TNT/index.m3u8",
+    "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAPQYAsowuJgCrzAD_9-0AnRIgrJqZ9C5kQgVQNGRCV8mfIFAplRWeF1VVVRUrEX4nW1VUakAJVwekVjSCkILJ37kF3WVnPFu4qFGXehGsdXUyXxNJRwQGj2u_Rm4QeChQnVXKYSDqZIADT2_aBUVSsFX5LJClJJfJmpHGw3KkojWL53nHkZEByQhNGRmzad7j9s78XWe9OeP-nk3-0hLyt51xxeNIMIbfElCBExBfaiGuMISA9QLQe-Dv2La17Q8BAwA7MyRVV9yloM-4Al4.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;",
+    "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAqQYAeyJ0aXRsZSI6IlVTQSB8VE5UICAobDpzYXlwb3B1bGFyKSIsInR2Z19pZCI6IlR1cm5lci5OZXR3b3JrLlRlbGV2aXNpb24uSERUVi4oRWFzdCkuKFROVEhEKS51cyIsInR2Z19jaCI6IiIsImxvZ28iOiJodHRwOi8vc2F5cG9wdWxhci5jb206MjU0NjEvaW1hZ2VzL2I4NjNjNjk0YzI1ODA3MDVjZGRmZGY4ZTkzMzkyMDZmLnBuZyIsImdyb3VwIjoiRUxJVEUgU1RSRUFNUyJ9oGctYQ.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;"
+  ]
+},
+{
+  "id": "HLN.us",
+  "name": "HLN",
+  "links": [
+    "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
+    "http://143.244.60.97/HLN/index.m3u8"
+  ]
+},
+{
+  "id": "Magnolia.-.East.us",
+  "name": "Magnolia Network",
+  "links": [
+    "http://162.81.167.120:9981/stream/channelid/642659541?profile=pass"
+  ]
+},
+{
+  "id": "QVC2.us",
+  "name": "QVC2",
+  "links": [
+    "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8"
+  ]
+},
+{
+  "id": "HSN..-.Home.Shopping.Network.us",
+  "name": "HSN",
+  "links": [
+    "https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8",
+    "http://143.244.60.97/HSN/index.m3u8"
+  ]
+},
+{
+  "id": "TMC.(US).-.Eastern.Feed.us",
+  "name": "TMC",
+  "links": [
+    "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAaQUAeyJ0aXRsZSI6IlVTQSB8IFRoZSBNb3ZpZSBDaGFubmVsIChFYXN0KSAobDp2b2x0c3RyZWFtcykiLCJ0dmdfaWQiOiJ0bWMudXMiLCJ0dmdfY2giOiIiLCJsb2dvIjoiaHR0cHM6Ly9sb2dvLmlwdHZlZGl0b3IuY29tL3RoZW1vdmllY2hhbm5lbC5wbmciLCJncm91cCI6IkhEIFBSRU1JVU0gTU9WSUVTIn2DuC0a.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;",
+    "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQArQQAQokhIjClbABzdyEVkGiXTOJZBIVCK7WWJBbo4A5rAcAo74iICKgFpw6KiVFF6XyNswHyyWWmYUrTzgIoPS9MRBoNY7CgxZbroguFkDft3nm-lbY--fkT27ildpY95tO0s1HP6nwIdcjuPjmhYa4W4Dp4iChJDvS8WLCm6EWoegTPoRbnd730fiADAAcbaoyQIQmZOgPPcDA1.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;",
+    "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAJQQA4sgbGoC3CoDgLbN5k7xiS7bGMwBRtpK7pmJ-R9IuiXNqXMMoUJVcBld_cJf14ss9xPAgJzWucpJ14uyj-STZ6mCKjRDv2paS4tfNrr5r24tfnSEMUaKFFfvFAwY95NLqAUxL5w4mMKlxDZOMcPVsrX1EBgDlMVxMGC6oPEklKNXAF6bKHGLSbg.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;",
+    "vlc://m3uproxy.media4u.top/p/m3u-stream/internal/internal/KLUv_QQAhQQAkgkeG2CxVeCzJNPabJ60SmjztCuE8D3B6HIB6z9_bwOPupOLgshFFBqe_iTDdeLLvROlUbATYxjdyYhR1ihqq47m0F4n0exzIi9uCKX4utnTeXE78aczI8pzLMCafeKDZAMUdnqComAnhdLUOcUIRXdyUZQdnq6tty8QBwARbLiiMJxROU41eMoBVAJUHBQU9kkttQ.mp4#Intent;scheme=https;action=android.intent.action.VIEW;package=org.videolan.vlc;end;"
+  ]
+},
+{
+  "id": "QVC.us",
+  "name": "QVC",
+  "links": [
+    "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8",
+    "http://143.244.60.97/QVC/index.m3u8"
+  ]
+}
+  ]
+}
