@@ -1,0 +1,137 @@
+#EXTM3U
+#EXTINF:-1,FX
+https://streamer1.nexgen.bz//FX/index.m3u8
+#EXTINF:-1,AMC
+https://streamer1.nexgen.bz//AMC/index.m3u8
+#EXTINF:-1,ATN
+https://streamer1.nexgen.bz//ATN/index.m3u8
+#EXTINF:-1,AXN
+https://streamer1.nexgen.bz//AXN/index.m3u8
+#EXTINF:-1,BET
+https://streamer1.nexgen.bz//BET/index.m3u8
+#EXTINF:-1,GET
+https://streamer1.nexgen.bz//GET/index.m3u8
+#EXTINF:-1,GSN
+https://streamer1.nexgen.bz//GSN/index.m3u8
+#EXTINF:-1,HMM
+https://streamer1.nexgen.bz//HMM/index.m3u8
+#EXTINF:-1,HTV
+https://streamer1.nexgen.bz//HTV/index.m3u8
+#EXTINF:-1,LMN
+https://streamer1.nexgen.bz//LMN/index.m3u8
+#EXTINF:-1,MTV
+https://streamer1.nexgen.bz//MTV/index.m3u8
+#EXTINF:-1,TBN
+https://streamer1.nexgen.bz//TBN/index.m3u8
+#EXTINF:-1,TBS
+https://streamer1.nexgen.bz//TBS/index.m3u8
+#EXTINF:-1,TCM
+https://streamer1.nexgen.bz//TCM/index.m3u8
+#EXTINF:-1,TLC
+https://streamer1.nexgen.bz//TLC/index.m3u8
+#EXTINF:-1,TNT
+https://streamer1.nexgen.bz//TNT/index.m3u8
+#EXTINF:-1,USA
+https://streamer1.nexgen.bz//USA/index.m3u8
+#EXTINF:-1,HBO2
+https://streamer1.nexgen.bz//HBO2/index.m3u8
+#EXTINF:-1,CINEMAX
+https://streamer1.nexgen.bz//CINEMAX/index.m3u8
+#EXTINF:-1,VH1
+https://streamer1.nexgen.bz//VH1/index.m3u8
+#EXTINF:-1,HGTV
+https://streamer1.nexgen.bz//HGTV/index.m3u8
+#EXTINF:-1,LIFETIME
+https://streamer1.nexgen.bz//LIFETIME/index.m3u8
+#EXTINF:-1,DISCOVERY
+https://streamer1.nexgen.bz//DISCOVERY/index.m3u8
+#EXTINF:-1,HISTORY
+https://streamer1.nexgen.bz//HISTORY/index.m3u8
+#EXTINF:-1,FUSE
+https://streamer1.nexgen.bz//FUSE/index.m3u8
+#EXTINF:-1,HALLMARK
+https://streamer1.nexgen.bz//HALLMARK/index.m3u8
+#EXTINF:-1,BRAVO
+https://streamer1.nexgen.bz/BRAVO/index.m3u8
+#EXTINF:-1,TRUTV
+https://streamer1.nexgen.bz//TRUTV/index.m3u8
+#EXTINF:-1,FOOD
+https://streamer1.nexgen.bz//FOOD/index.m3u8
+#EXTINF:-1,SYFY
+https://streamer1.nexgen.bz//SYFY/index.m3u8
+#EXTINF:-1,ATN (TX2)
+https://tx2.nexgen.bz:4000//ATN/index.m3u8
+#EXTINF:-1,AXN (TX2)
+https://tx2.nexgen.bz:4000//AXN/index.m3u8
+#EXTINF:-1,BET (TX2)
+https://tx2.nexgen.bz:4000//BET/index.m3u8
+#EXTINF:-1,CARTOON
+https://tx2.nexgen.bz:4000//CARTOON/index.m3u8
+#EXTINF:-1,COOKING
+https://tx2.nexgen.bz:4000//COOKING/index.m3u8
+#EXTINF:-1,HGTV (TX2)
+https://tx2.nexgen.bz:4000//HGTV/index.m3u8
+#EXTINF:-1,ESPN
+https://tx2.nexgen.bz:4000//ESPN/index.m3u8
+#EXTINF:-1,LIFETIME (TX2)
+https://tx2.nexgen.bz:4000//LIFETIME/index.m3u8
+#EXTINF:-1,MTV (TX2)
+https://tx2.nexgen.bz:4000//MTV/index.m3u8
+#EXTINF:-1,BYU
+https://tx2.nexgen.bz:4000//BYU/index.m3u8
+#EXTINF:-1,CBC
+https://tx2.nexgen.bz:4000//CBC/index.m3u8
+#EXTINF:-1,NICKELODEON
+https://tx2.nexgen.bz:4000//NICKELODEON/index.m3u8
+#EXTINF:-1,OUTDOOR
+https://tx2.nexgen.bz:4000//OUTDOOR/index.m3u8
+#EXTINF:-1,VH1 (TX2)
+https://tx2.nexgen.bz:4000//VH1/index.m3u8
+#EXTINF:-1,ESPN (TX2)
+https://tx2.nexgen.bz:4000//ESPN/index.m3u8
+#EXTINF:-1,ESPN2
+https://tx2.nexgen.bz:4000//ESPN2/index.m3u8
+#EXTINF:-1,PARAMOUNT
+https://tx2.nexgen.bz:4000//PARAMOUNT/index.m3u8
+#EXTINF:-1,FOX
+https://tx2.nexgen.bz:4000//FOX/index.m3u8
+#EXTINF:-1,GET (TX2)
+https://tx2.nexgen.bz:4000//GET/index.m3u8
+#EXTINF:-1,HTV (TX2)
+https://tx2.nexgen.bz:4000//HTV/index.m3u8
+#EXTINF:-1,LMN (TX2)
+https://tx2.nexgen.bz:4000//LMN/index.m3u8
+#EXTINF:-1,MLB
+https://tx2.nexgen.bz:4000//MLB/index.m3u8
+#EXTINF:-1,NBA
+https://tx2.nexgen.bz:4000//NBA/index.m3u8
+#EXTINF:-1,NFL
+https://tx2.nexgen.bz:4000//NFL/index.m3u8
+#EXTINF:-1,WGN
+https://tx2.nexgen.bz:4000//WGN/index.m3u8
+#EXTINF:-1,HISTORY (TX2)
+https://tx2.nexgen.bz:4000//HISTORY/index.m3u8
+#EXTINF:-1,COOKING (TX2)
+https://tx2.nexgen.bz:4000//COOKING/index.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE 
+https://streamer1.nexgen.bz/DISCOVERY_SCIENCE/index.m3u8
+#EXTINF:-1,DISCOVERY TURBO
+https://streamer1.nexgen.bz/DISCOVERY_TURBO/index.m3u8
+#EXTINF:-1,HBO FAMILY
+https://streamer1.nexgen.bz/HBO_FAMILY/index.m3u8
+#EXTINF:-1,HUSTLER TV
+https://streamer1.nexgen.bz/HUSTLER_TV/index.m3u8
+#EXTINF:-1,IONMYSTERY
+https://streamer1.nexgen.bz/IONMYSTERY/index.m3u8
+#EXTINF:-1,COMEDY CENTRAL
+https://streamer1.nexgen.bz/COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1,3ABN
+https://streamer1.nexgen.bz/3ABN/index.m3u8
+#EXTINF:-1,BOUNCE
+https://streamer1.nexgen.bz/BOUNCE/index.m3u8
+#EXTINF:-1,ME TV
+https://streamer1.nexgen.bz/ME_TV/index.m3u8
+#EXTINF:-1,TELEXITOS
+https://streamer1.nexgen.bz/TELEXITOS/index.m3u8
+#EXTINF:-1,WE TV
+https://streamer1.nexgen.bz/WE_TV/index.m3u8

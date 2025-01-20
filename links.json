@@ -1,0 +1,1178 @@
+{
+  "channels": [
+  {
+    "id": "Bloomberg.TV.USA.us",
+    "name": "BLOOMBERG",
+    "links": [
+      "http://143.244.60.97/BLOOMBERG/index.m3u8"
+    ]
+  },
+  {
+    "id": "C-SPAN.us",
+    "name": "C-SPAN",
+    "links": [
+      "http://143.244.60.97/C-SPAN/index.m3u8"
+    ]
+  },
+  {
+    "id": "CBS.(WCBS).New.York,.NY.us",
+    "name": "CBS",
+    "links": [
+      "http://143.244.60.97/CBSEAST/index.m3u8"
+    ]
+  },
+  {
+    "id": "CNBC.USA.us",
+    "name": "CNBC FHD",
+    "links": [
+      "http://212.102.60.231/CNBC/index.m3u8"
+    ]
+  },
+  {
+    "id": "CNN.us",
+    "name": "CNN",
+    "links": [
+      "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8"
+    ]
+  },
+  {
+    "id": "Cable.News.Network.International.(CNNI).us",
+    "name": "CNN INTERNATIONAL",
+    "links": [
+      "http://143.244.60.97/CNN_INTERNATIONAL/index.m3u8"
+    ]
+  },
+  {
+    "id": "FOX.(WNYW).New.York,.NY.us",
+    "name": "FOX",
+    "links": [
+      "http://143.244.60.97/FOX_EAST/index.m3u8"
+    ]
+  },
+  {
+    "id": "Fox.Business.us",
+    "name": "FOX Business Network",
+    "links": [
+      "http://143.244.60.97/FOX_Business_Network/index.m3u8"
+    ]
+  },
+  {
+    "id": "MSNBC.USA.us",
+    "name": "MSNBC",
+    "links": [
+      "http://streamsy.online:2999/live/venomj/EmoOmOskzq/143.m3u8"
+    ]
+  },
+  {
+    "id": "NBC.(WNBC).New.York,.NY.us",
+    "name": "NBC",
+    "links": [
+      "http://143.244.60.97/NBC_EAST/index.m3u8"
+    ]
+  },
+  {
+    "id": "NewsNation.-.Eastern.Feed.us",
+    "name": "NewsNation",
+    "links": [
+      "http://143.244.60.97/NEWS_NATION/index.m3u8"
+    ]
+  },
+  {
+    "id": "Scripps.News.Channel.us",
+    "name": "Scripps News",
+    "links": [
+      "https://linear-460.frequency.stream/dist/vix/460/hls/master/playlist.m3u8"
+    ]
+  },
+  {
+    "id": "The.Weather.Channel.us",
+    "name": "Weather Channel",
+    "links": [
+      "http://143.244.60.97/THE_WEATHER_CHANNEL/index.m3u8"
+    ]
+  },
+  {
+    "id": "Big.Ten.Network.us",
+    "name": "Big Ten Network HD",
+    "links": [
+      "http://195.181.163.243/BIG_TEN_NETWORK/index.m3u8"
+    ]
+  },
+  {
+    "id": "CBS.Sports.Network.USA.us",
+    "name": "CBS SPORTS NETWORK",
+    "links": [
+      "http://143.244.60.97/CBS_SPORTS_NETWORK/index.m3u8"
+    ]
+  },
+  {
+    "id": "ESPN.us",
+    "name": "ESPN",
+    "links": [
+      "http://41.205.93.154/ESPN/index.m3u8"
+    ]
+  },
+  {
+    "id": "ESPN2.us",
+    "name": "ESPN 2",
+    "links": [
+      "http://143.244.60.97/ESPN_2/index.m3u8"
+    ]
+  },
+  {
+    "id": "ESPNews.us",
+    "name": "ESPN NEWS",
+    "links": [
+      "http://143.244.60.97/ESPN_NEWS/index.m3u8"
+    ]
+  },
+  {
+    "id": "ESPNU.us",
+    "name": "ESPN U",
+    "links": [
+      "http://143.244.60.97/ESPN_U/index.m3u8"
+    ]
+  },
+  {
+    "id": "Fox.Soccer.Plus.us",
+    "name": "FOX SOCCER PLUS",
+    "links": [
+      "http://streamsy.online:2999/live/venomj/EmoOmOskzq/265.m3u8"
+    ]
+  },
+  {
+    "id": "Fox.Sports.1.us",
+    "name": "FS1",
+    "links": [
+      "http://143.244.60.97/FOX_Sports_1/index.m3u8"
+    ]
+  },
+  {
+    "id": "Fox.Sports.2.us",
+    "name": "FS2",
+    "links": [
+      "http://streamsy.online:2999/venomj/EmoOmOskzq/264"
+    ]
+  },
+  {
+    "id": "MavTV.USA.us",
+    "name": "MAVTV",
+    "links": [
+      "http://143.244.60.97/MAV_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "MLB.Network.us",
+    "name": "MLB Network",
+    "links": [
+      "http://143.244.60.97/MLB_NETWORK/index.m3u8"
+    ]
+  },
+  {
+    "id": "NBA.TV.USA.us",
+    "name": "NBA TV",
+    "links": [
+      "http://143.244.60.97/NBA_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "Golf.Channel.USA.us",
+    "name": "NBC Golf",
+    "links": [
+      "http://143.244.60.97/GOLF_CHANNEL/index.m3u8"
+    ]
+  },
+  {
+    "id": "NFL.Network.us",
+    "name": "NFL Network",
+    "links": [
+      "http://143.244.60.97/NFL_NETWORK/index.m3u8"
+    ]
+  },
+  {
+    "id": "NFL.RedZone.us",
+    "name": "NFL RedZone",
+    "links": [
+      "http://143.244.60.97/NFL_RedZone/index.m3u8"
+    ]
+  },
+  {
+    "id": "NHL.Network.USA.us",
+    "name": "NHL Network",
+    "links": [
+      "http://143.244.60.97/NHL_NETWORK/index.m3u8"
+    ]
+  },
+  {
+    "id": "Pursuit.Channel.us",
+    "name": "Pursuit Channel",
+    "links": [
+      "http://195.181.163.243/Pursuit_Channel/index.m3u8"
+    ]
+  },
+  {
+    "id": "SEC.Network.us",
+    "name": "SEC Network",
+    "links": [
+      "http://streamsy.online:2999/venomj/EmoOmOskzq/295"
+    ]
+  },
+  {
+    "id": "Sportsman.Channel.us",
+    "name": "Sportsman Channel",
+    "links": [
+      "http://143.244.60.97/SPORTSMAN_CHANNEL/index.m3u8"
+    ]
+  },
+  {
+    "id": "MoreMax..Eastern.us",
+    "name": "CINEMAX MOREMAX",
+    "links": [
+      "http://23.237.104.106:8080/USA_MOREMAX/index.m3u8",
+      "http://195.181.163.243/CINEMAX_MOREMAX/index.m3u8"
+    ]
+  },
+  {
+    "id": "Cinemax.-.Pacific.Feed.us",
+    "name": "CINEMAX WEST",
+    "links": [
+      "http://143.244.60.97/CINEMAX_WEST/index.m3u8"
+    ]
+  },
+  {
+    "id": "FX.Movie.Channel.us",
+    "name": "FXM",
+    "links": [
+      "http://143.244.60.97/FX_MOVIE/index.m3u8"
+    ]
+  },
+  {
+    "id": "Hallmark.-.Eastern.Feed.us",
+    "name": "Hallmark Channel",
+    "links": [
+      "http://143.244.60.97/HALLMARK_CHANNEL/index.m3u8",
+      "http://23.237.104.106:8080/USA_HALLMARK/index.m3u8"
+    ]
+  },
+  {
+    "id": "Hallmark.Drama.HDTV.(HALDRHD).us",
+    "name": "Hallmark Family",
+    "links": [
+      "http://143.244.60.97/HALLMARK_DRAMA/index.m3u8"
+    ]
+  },
+  {
+    "id": "Hallmark.Mystery.Eastern.-.HD.us",
+    "name": "Hallmark Mystery",
+    "links": [
+      "http://143.244.60.97/HALLMARK_MOVIES_MYSTERIES/index.m3u8"
+    ]
+  },
+  {
+    "id": "HBO.-.Eastern.Feed.us",
+    "name": "HBO",
+    "links": [
+      "http://143.244.60.97/HBO/index.m3u8"
+    ]
+  },
+  {
+    "id": "HBO.Comedy.HD.-.East.us",
+    "name": "HBO Comedy",
+    "links": [
+      "http://143.244.60.97/HBO_COMEDY/index.m3u8",
+      "http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8"
+    ]
+  },
+  {
+    "id": "HBO.Zone.HD.-.East.us",
+    "name": "HBO Zone",
+    "links": [
+      "http://143.244.60.97/HBO_ZONE/index.m3u8"
+    ]
+  },
+  {
+    "id": "HBO.2.-.Eastern.Feed.us",
+    "name": "HBO2",
+    "links": [
+      "http://143.244.60.97/HBO_2/index.m3u8"
+    ]
+  },
+  {
+    "id": "Lifetime.Network.US.-.Eastern.Feed.us",
+    "name": "Lifetime",
+    "links": [
+      "http://143.244.60.97/LIFETIME/index.m3u8"
+    ]
+  },
+  {
+    "id": "Lifetime.Movies.-.East.us",
+    "name": "Lifetime Movies Network",
+    "links": [
+      "http://143.244.60.97/LIFETIME_MOVIE_NETWORK/index.m3u8",
+      "http://23.237.104.106:8080/USA_LMN/index.m3u8"
+    ]
+  },
+  {
+    "id": "MGM.HD.(USA).us",
+    "name": "MGM+",
+    "links": [
+      "http://143.244.60.97/EPIX/index.m3u8"
+    ]
+  },
+  {
+    "id": "MGM+.Drive-In.(MGM+DI).us",
+    "name": "MGM+ Drive-In",
+    "links": [
+      "http://143.244.60.97/EPIX_DRIVE_IN/index.m3u8"
+    ]
+  },
+  {
+    "id": "MGM+.Hits.HDTV.(East).(MGM+HTHD).us",
+    "name": "MGM+ HITS",
+    "links": [
+      "http://143.244.60.97/EPIX_2/index.m3u8"
+    ]
+  },
+  {
+    "id": "MGM+.Marquee.HDTV.(East).(MGM+MRQ).us",
+    "name": "MGM+ MARQUEE",
+    "links": [
+      "http://143.244.60.97/EPIX_HITS/index.m3u8"
+    ]
+  },
+  {
+    "id": "OuterMax.east.us",
+    "name": "OUTER MAX",
+    "links": [
+      "http://143.244.60.97/OUTER_MAX/index.m3u8"
+    ]
+  },
+  {
+    "id": "Paramount+.with.Showtime.-.Eastern.Feed.us",
+    "name": "Showtime",
+    "links": [
+      "http://143.244.60.97/SHOWTIME/index.m3u8"
+    ]
+  },
+  {
+    "id": "Showtime.2.-.Eastern.us",
+    "name": "Showtime 2",
+    "links": [
+      "http://143.244.60.97/SHOWTIME_2/index.m3u8"
+    ]
+  },
+  {
+    "id": "Showtime.Extreme.-.Eastern.us",
+    "name": "Showtime Extreme",
+    "links": [
+      "http://143.244.60.97/SHOWTIME_EXTREME/index.m3u8"
+    ]
+  },
+  {
+    "id": "Showtime.Next.HD.-.Eastern.us",
+    "name": "Showtime Next",
+    "links": [
+      "http://143.244.60.97/SHOWTIME_NEXT/index.m3u8"
+    ]
+  },
+  {
+    "id": "Paramount+.with.Showtime..West.us",
+    "name": "SHOWTIME WEST",
+    "links": [
+      "http://143.244.60.97/SHOWTIME_WEST/index.m3u8"
+    ]
+  },
+  {
+    "id": "Showtime.Women.HD.-.Eastern.us",
+    "name": "Showtime Women",
+    "links": [
+      "http://143.244.60.97/SHOWTIME_WOMEN/index.m3u8"
+    ]
+  },
+  {
+    "id": "Sony.Movies.us",
+    "name": "Sony Movie Channel",
+    "links": [
+      "http://195.181.163.243/Sony_Movie_Channel/index.m3u8"
+    ]
+  },
+  {
+    "id": "Starz.-.Eastern.us",
+    "name": "Starz",
+    "links": [
+      "http://143.244.60.97/STARZ/index.m3u8"
+    ]
+  },
+  {
+    "id": "Starz.Comedy.HD.-.Eastern.us",
+    "name": "Starz Comedy",
+    "links": [
+      "http://143.244.60.97/STARZ_COMEDY/index.m3u8"
+    ]
+  },
+  {
+    "id": "Starz.Edge.-.Eastern.us",
+    "name": "Starz Edge",
+    "links": [
+      "http://143.244.60.97/STARZ_EDGE/index.m3u8"
+    ]
+  },
+  {
+    "id": "Starz.Encore.-.Eastern.us",
+    "name": "Starz Encore",
+    "links": [
+      "http://143.244.60.97/STARZ_ENCORE/index.m3u8"
+    ]
+  },
+  {
+    "id": "Starz.Encore.Action.-.Eastern.us",
+    "name": "Starz Encore Action",
+    "links": [
+      "http://143.244.60.97/STARZ_ENCORE_ACTION/index.m3u8"
+    ]
+  },
+  {
+    "id": "Starz.Encore.Classic.-.Eastern.us",
+    "name": "STARZ ENCORE CLASSIC",
+    "links": [
+      "http://212.102.60.231/STARZ_ENCORE_CLASSIC/index.m3u8"
+    ]
+  },
+  {
+    "id": "Starz.Encore.Westerns.-.Eastern.us",
+    "name": "Starz Encore Westerns",
+    "links": [
+      "http://143.244.60.97/STARZ_ENCORE_WESTERNS/index.m3u8"
+    ]
+  },
+  {
+    "id": "Starz.-.Pacific.us",
+    "name": "STARZ WEST",
+    "links": [
+      "http://143.244.60.97/STARZ_WEST/index.m3u8"
+    ]
+  },
+  {
+    "id": "SundanceTV.USA.-.East.us",
+    "name": "SundanceTV",
+    "links": [
+      "http://143.244.60.97/SUNDANCE/index.m3u8"
+    ]
+  },
+  {
+    "id": "Turner.Classic.Movies.USA.us",
+    "name": "TCM",
+    "links": [
+      "http://143.244.60.97/TCM/index.m3u8"
+    ]
+  },
+  {
+    "id": "BET.Gospel.us",
+    "name": "BET GOSPEL",
+    "links": [
+      "http://143.244.60.97/BET_GOSPEL/index.m3u8"
+    ]
+  },
+  {
+    "id": "BET.Jams.(BETJ).us",
+    "name": "BET Jams",
+    "links": [
+      "http://195.181.163.243/BET_Jams/index.m3u8"
+    ]
+  },
+  {
+    "id": "BET.Soul.us",
+    "name": "BET SOUL",
+    "links": [
+      "http://143.244.60.97/BET_SOUL/index.m3u8"
+    ]
+  },
+  {
+    "id": "Bravo.USA.-.Eastern.Feed.us",
+    "name": "BRAVO",
+    "links": [
+      "http://143.244.60.97/BRAVO/index.m3u8"
+    ]
+  },
+  {
+    "id": "CMT.US.-.Eastern.Feed.us",
+    "name": "CMT",
+    "links": [
+      "http://195.181.163.243/CMT/index.m3u8"
+    ]
+  },
+  {
+    "id": "Comedy.Central.(US).-.Eastern.Feed.us",
+    "name": "COMEDY CENTRAL",
+    "links": [
+      "http://195.181.163.243/Comedy_Central/index.m3u8",
+      "http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8"
+    ]
+  },
+  {
+    "id": "The.Cooking.Channel.us",
+    "name": "COOKING",
+    "links": [
+      "http://195.181.163.243/COOKING_CHANNEL/index.m3u8"
+    ]
+  },
+  {
+    "id": "Court.TV.US.us",
+    "name": "COURT TV",
+    "links": [
+      "http://195.181.163.243/COURT_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "E!.Entertainment.USA.-.Eastern.Feed.us",
+    "name": "E ENTERTAINMENT TELEVISION",
+    "links": [
+      "http://143.244.60.97/E_ENTERTAINMENT_TELEVISION/index.m3u8"
+    ]
+  },
+  {
+    "id": "Food.Network.USA.-.Eastern.Feed.us",
+    "name": "FOOD NETWORK",
+    "links": [
+      "http://143.244.60.97/FOOD_NETWORK/index.m3u8"
+    ]
+  },
+  {
+    "id": "FUSE.TV.-.Eastern.feed.us",
+    "name": "Fuse",
+    "links": [
+      "http://143.244.60.97/FUSE/index.m3u8"
+    ]
+  },
+  {
+    "id": "FXX.USA.-.Eastern.us",
+    "name": "FXX",
+    "links": [
+      "http://84.17.40.25/FXX/index.m3u8",
+      "http://143.244.60.97/FXX/index.m3u8",
+      "http://23.237.104.106:8080/USA_FXX/index.m3u8"
+    ]
+  },
+  {
+    "id": "FYI.USA.-.Eastern.us",
+    "name": "FYI FHD",
+    "links": [
+      "http://143.244.60.97/FYI/index.m3u8"
+    ]
+  },
+  {
+    "id": "Game.Show.Network.-.East.us",
+    "name": "GAME SHOW NETWORK",
+    "links": [
+      "http://212.102.60.231/GAME_SHOW_NETWORK/index.m3u8"
+    ]
+  },
+  {
+    "id": "HGTV.USA.-.Eastern.Feed.us",
+    "name": "HGTV",
+    "links": [
+      "http://143.244.60.97/HGTV/index.m3u8"
+    ]
+  },
+  {
+    "id": "INSP.us",
+    "name": "INSP TV",
+    "links": [
+      "http://143.244.60.97/INSP/index.m3u8"
+    ]
+  },
+  {
+    "id": "ION..-.Eastern.Feed.us",
+    "name": "ION",
+    "links": [
+      "http://143.244.60.97/ION_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "ION.Plus.TV.us",
+    "name": "ION Plus",
+    "links": [
+      "http://195.181.163.243/ION_Plus/index.m3u8"
+    ]
+  },
+  {
+    "id": "LOGO.-.East.us",
+    "name": "Logo",
+    "links": [
+      "http://streamsy.online:2999/live/venomj/EmoOmOskzq/952.m3u8"
+    ]
+  },
+  {
+    "id": "Motor.Trend.HD.us",
+    "name": "MotorTrend",
+    "links": [
+      "http://143.244.60.97/MOTOR_TREND/index.m3u8"
+    ]
+  },
+  {
+    "id": "MSG.(Madison.Square.Gardens).us",
+    "name": "MSG",
+    "links": [
+      "http://195.181.163.243/MSG/index.m3u8"
+    ]
+  },
+  {
+    "id": "MTV.USA.-.Eastern.Feed.us",
+    "name": "MTV",
+    "links": [
+      "http://143.244.60.97/MTV/index.m3u8",
+      "http://23.237.104.106:8080/USA_MTV/index.m3u8"
+    ]
+  },
+  {
+    "id": "MTV.Classic.-.East.us",
+    "name": "MTV Classic",
+    "links": [
+      "http://streamsy.online:2999/live/venomj/EmoOmOskzq/1194.m3u8"
+    ]
+  },
+  {
+    "id": "MTV.Live.HD.us",
+    "name": "MTV Live",
+    "links": [
+      "http://143.244.60.97/MTV_LIVE/index.m3u8"
+    ]
+  },
+  {
+    "id": "MTV.2.-.East.us",
+    "name": "MTV2",
+    "links": [
+      "http://143.244.60.97/MTV_2/index.m3u8"
+    ]
+  },
+  {
+    "id": "MTV-U.(MTV-U).us",
+    "name": "mtvU",
+    "links": [
+      "http://143.244.60.97/MTV_U/index.m3u8"
+    ]
+  },
+  {
+    "id": "Oprah.Winfrey.Network.USA.Eastern.us",
+    "name": "Oprah Winfrey Network",
+    "links": [
+      "http://143.244.60.97/OWN/index.m3u8"
+    ]
+  },
+  {
+    "id": "Ovation.us",
+    "name": "Ovation",
+    "links": [
+      "http://195.181.163.243/Ovation/index.m3u8"
+    ]
+  },
+  {
+    "id": "Oxygen.-.Eastern.Feed.us",
+    "name": "Oxygen",
+    "links": [
+      "http://143.244.60.97/OXYGEN/index.m3u8"
+    ]
+  },
+  {
+    "id": "Paramount.Network.USA.-.Eastern.Feed.us",
+    "name": "Paramount Network",
+    "links": [
+      "http://143.244.60.97/PARAMOUNT_NETWORK/index.m3u8"
+    ]
+  },
+  {
+    "id": "PIXL.us",
+    "name": "Pixl",
+    "links": [
+      "http://195.181.163.243/Pixl/index.m3u8"
+    ]
+  },
+  {
+    "id": "POP.-.East.us",
+    "name": "PopTV",
+    "links": [
+      "http://195.181.163.243/Pop_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "ReelzChannel.us",
+    "name": "ReelzChannel",
+    "links": [
+      "http://143.244.60.97/REELZ/index.m3u8"
+    ]
+  },
+  {
+    "id": "Revolt.TV.us",
+    "name": "Revolt",
+    "links": [
+      "http://143.244.60.97/REVOLT/index.m3u8"
+    ]
+  },
+  {
+    "id": "TBS.-.East.us",
+    "name": "TBS",
+    "links": [
+      "http://143.244.60.97/TBS/index.m3u8",
+      "http://23.237.104.106:8080/USA_TBS/index.m3u8"
+    ]
+  },
+  {
+    "id": "TV.Land.-.Eastern.us",
+    "name": "TVLand",
+    "links": [
+      "http://143.244.60.97/TV_Land/index.m3u8"
+    ]
+  },
+  {
+    "id": "TV.One.us",
+    "name": "TVOne",
+    "links": [
+      "http://143.244.60.97/TV_ONE/index.m3u8"
+    ]
+  },
+  {
+    "id": "UP.us",
+    "name": "UPtv",
+    "links": [
+      "http://195.181.163.243/Up_Tv/index.m3u8"
+    ]
+  },
+  {
+    "id": "USA.Network.-.East.Feed.us",
+    "name": "USA Network",
+    "links": [
+      "http://143.244.60.97/USA_Network/index.m3u8"
+    ]
+  },
+  {
+    "id": "VH1.-.Eastern.Feed.us",
+    "name": "VH1",
+    "links": [
+      "http://143.244.60.97/VH1/index.m3u8"
+    ]
+  },
+  {
+    "id": "VICE.us",
+    "name": "Vice",
+    "links": [
+      "http://143.244.60.97/VICELAND/index.m3u8"
+    ]
+  },
+  {
+    "id": "WE.(Women&apos;s.Entertainment).-.Eastern.us",
+    "name": "WeTV",
+    "links": [
+      "http://143.244.60.97/WE_TV/index.m3u8"
+    ]
+  },
+  {
+    "id": "Crime.and.Investigation.Network.USA.HD.us",
+    "name": "Crime + Investigation",
+    "links": [
+      "http://195.181.163.243/Crime_and_Investigation_Network/index.m3u8"
+    ]
+  },
+  {
+    "id": "Curiosity.Channel(Stream).us",
+    "name": "Curiosity Stream",
+    "links": [
+      "http://195.181.163.243/Curiosity_Stream/index.m3u8"
+    ]
+  },
+  {
+    "id": "Destination.America.us",
+    "name": "Destination America",
+    "links": [
+      "http://195.181.163.243/Destination_America/index.m3u8"
+    ]
+  },
+  {
+    "id": "Discovery.Channel.(US).-.Eastern.Feed.us",
+    "name": "Discovery Channel",
+    "links": [
+      "http://195.181.163.243/Discovery_Channel/index.m3u8"
+    ]
+  },
+  {
+    "id": "Discovery.Life.Channel.us",
+    "name": "DISCOVERY LIFE",
+    "links": [
+      "http://143.244.60.97/DISCOVERY_LIFE/index.m3u8"
+    ]
+  },
+  {
+    "id": "Science.us",
+    "name": "Discovery Science",
+    "links": [
+      "http://195.181.163.243/Discovery_Science/index.m3u8"
+    ]
+  },
+  {
+    "id": "Magnolia.-.East.us",
+    "name": "DIY",
+    "links": [
+      "http://143.244.60.97/DIY/index.m3u8"
+    ]
+  },
+  {
+    "id": "History.Channel.US.-.Eastern.Feed.us",
+    "name": "History",
+    "links": [
+      "http://streamsy.online:2999/live/venomj/EmoOmOskzq/153.m3u8"
+    ]
+  },
+  {
+    "id": "Investigation.Discovery.USA.-.Eastern.us",
+    "name": "ID (Investigation Discovery)",
+    "links": [
+      "http://143.244.60.97/INVESTIGATION_DISCOVERY/index.m3u8"
+    ]
+  },
+  {
+    "id": "National.Geographic.US.-.Eastern.us",
+    "name": "National Geographic",
+    "links": [
+      "http://143.244.60.97/National_Geographic/index.m3u8"
+    ]
+  },
+  {
+    "id": "National.Geographic.Wild.us",
+    "name": "National Geographic Wild",
+    "links": [
+      "http://143.244.60.97/Nat_Geo_Wild/index.m3u8"
+    ]
+  },
+  {
+    "id": "Outdoor.Channel.US.us",
+    "name": "Outdoor Channel",
+    "links": [
+      "http://143.244.60.97/OUTDOOR_CHANNEL/index.m3u8"
+    ]
+  },
+  {
+    "id": "Smithsonian.Channel.USA.HD.us",
+    "name": "SMITHSONIAN CHANNEL",
+    "links": [
+      "http://143.244.60.97/SMITHSONIAN_CHANNEL/index.m3u8"
+    ]
+  },
+  {
+    "id": "TLC.USA.-.Eastern.us",
+    "name": "TLC",
+    "links": [
+      "http://143.244.60.97/TLC/index.m3u8"
+    ]
+  },
+  {
+    "id": "Travel.US.-.East.us",
+    "name": "Travel Channel",
+    "links": [
+      "http://143.244.60.97/Travel_Channel/index.m3u8"
+    ]
+  },
+  {
+    "id": "World.Fishing.Network.(US).(WFN).us",
+    "name": "WORLD FISHING NETWORK",
+    "links": [
+      "http://143.244.60.97/WORLD_FISHING_NETWORK/index.m3u8"
+    ]
+  },
+  {
+    "id": "Boomerang.us",
+    "name": "Boomerang",
+    "links": [
+      "http://195.181.163.243/BOOMERANG/index.m3u8"
+    ]
+  },
+  {
+    "id": "Cartoon.Network.USA.-.Eastern.Feed.us",
+    "name": "CARTOON NETWORK",
+    "links": [
+      "http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8"
+    ]
+  },
+  {
+    "id": "Discovery.Family.Channel.us",
+    "name": "DISCOVERY FAMILY CHANNEL",
+    "links": [
+      "http://143.244.60.97/DISCOVERY_FAMILY_CHANNEL/index.m3u8"
+    ]
+  },
+  {
+    "id": "Nickelodeon.USA.-.East.Feed.us",
+    "name": "Nickelodeon",
+    "links": [
+      "http://143.244.60.97/NICKELODEON/index.m3u8"
+    ]
+  },
+  {
+    "id": "Nick.Jr..-.East.us",
+    "name": "NickJr",
+    "links": [
+      "http://143.244.60.97/NICK_JR/index.m3u8"
+    ]
+  },
+  {
+    "id": "Nick.Music.(NICM).us",
+    "name": "NickMusic USA",
+    "links": [
+      "http://143.244.60.97/NICK_MUSIC/index.m3u8"
+    ]
+  },
+  {
+    "id": "Nicktoons.-.East.us",
+    "name": "NickToons",
+    "links": [
+      "http://143.244.60.97/NICKTOONS/index.m3u8"
+    ]
+  },
+    {
+      "id": "FX.Networks.East.Coast.us",
+      "name": "FX",
+      "links": [
+        "http://23.237.104.106:8080/USA_FX/index.m3u8",
+        "http://143.244.60.97/FX/index.m3u8"
+      ]
+    },
+    {
+      "id": "5.Star.Max.-.Eastern.us",
+      "name": "cinemax 5star",
+      "links": [
+        "http://23.237.104.106:8080/USA_5STARMAX/index.m3u8"
+      ]
+    },
+   {
+      "id": "A.and.E.US.-.Eastern.Feed.us",
+      "name": "A&E",
+      "links": [
+        "http://23.237.104.106:8080/USA_AE/index.m3u8"
+      ]
+    },
+   {
+      "id": "ABC.NEWS.us",
+      "name": "ABC News Live",
+      "links": [
+        "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8"
+      ]
+    },
+   {
+      "id": "AccuWeather.us",
+      "name": "AccuWeather",
+      "links": [
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8"
+      ]
+    },
+   {
+      "id": "ActionMax.-.Eastern.us",
+      "name": "ActionsMax",
+      "links": [
+        "http://143.244.60.97/STARZ_ENCORE_ACTION/index.m3u8"
+      ]
+    },
+   {
+      "id": "AMC.-.Eastern.Feed.us",
+      "name": "AMC",
+      "links": [
+        "http://23.237.104.106:8080/USA_AMC/index.m3u8",
+        "http://212.102.60.231/AMC_NETWORK/index.m3u8"
+      ]
+    },
+   {
+      "id": "AMC+.us",
+      "name": "AMC+",
+      "links": [
+        "https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8"
+      ]
+    },
+   {
+      "id": "American.Heroes.Channel.us",
+      "name": "AHC",
+      "links": [
+        "http://195.181.163.243/American_Heroes_Channel/index.m3u8"     
+      ]
+    },
+   {
+      "id": "Animal.Planet.US.-.East.us",
+      "name": "Animal Planet",
+      "links": [
+        "http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8",
+        "http://143.244.60.97/Animal_Planet/index.m3u8"
+      ]
+    },
+   {
+      "id": "ASPiRE.TV.us",
+      "name": "Aspire",
+      "links": [
+        "http://195.181.163.243/Aspire/index.m3u8"
+      ]
+    },
+   {
+      "id": "Baby.First.TV.us",
+      "name": "Baby First",
+      "links": [
+        "https://lte.wiseplayout.com/WiseM3U8_12/master.m3u8"
+      ]
+    },
+   {
+      "id": "BBC.America.-.East.us",
+      "name": "BBC America",
+      "links": [
+        "http://143.244.60.97/BBC_AMERICA/index.m3u8",
+        "https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8"
+      ]
+    },
+   {
+      "id": "BET.-.Eastern.Feed.us",
+      "name": "bet",
+      "links": [
+        "http://143.244.60.97/BET_EAST/index.m3u8"
+      ]
+    },
+{
+  "id": "BET.Her.us",
+  "name": "BET Her",
+  "links": [
+    "http://212.102.60.231/BET_HER/index.m3u8",
+    "http://143.244.60.97/BET_HER/index.m3u8"
+  ]
+},
+{
+  "id": "Court.TV.US.us",
+  "name": "CourtTV",
+  "links": [
+    "https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8",
+    "http://195.181.163.243/COURT_TV/index.m3u8"
+  ]
+},
+{
+  "id": "Disney.-.Eastern.Feed.us",
+  "name": "Disney Channel",
+  "links": [
+    "http://212.102.60.231/DISNEY_CHANNEL/index.m3u8",
+    "http://143.244.60.97/DISNEY_CHANNEL/index.m3u8"
+  ]
+},
+{
+  "id": "Disney.XD.USA.-.Eastern.Feed.us",
+  "name": "Disney XD",
+  "links": [
+    "http://212.102.60.231/DISNEY_XD/index.m3u8",
+    "http://143.244.60.97/DISNEY_XD/index.m3u8"
+  ]
+},
+{
+  "id": "Freeform.-.East.Feed.us",
+  "name": "Freeform",
+  "links": [
+    "http://212.102.60.231/FREE_FORM/index.m3u8",
+    "http://143.244.60.97/FREE_FORM/index.m3u8"
+  ]
+},
+{
+  "id": "Galavision.-.Eastern.Feed.us",
+  "name": "Galavision",
+  "links": [
+    "https://dai.google.com/linear/hls/event/4SHc_fddRJKEQ6UG_mtpjQ/master.m3u8"
+  ]
+},
+{
+  "id": "HBO.Family.-.Eastern.Feed.us",
+  "name": "HBO Family",
+  "links": [
+    "http://212.102.60.231/HBO_FAMILY/index.m3u8",
+    "http://143.244.60.97/HBO_FAMILY/index.m3u8"
+  ]
+},
+    {
+  "id": "Telemundo..-.Eastern.Feed.us",
+  "name": "Telemundo",
+  "links": [
+    "http://168.181.122.234:8000/play/a011/index.m3u8"
+  ]
+},
+{
+  "id": "PBS.-.Network.HD.-.Eastern.us",
+  "name": "PBS",
+  "links": [
+    "https://wnetdt.lls.pbs.org/out/v1/0456457548354b88b32fc437e4e7ee01/index.m3u8"
+  ]
+},
+{
+  "id": "truTV.USA.-.Eastern.us",
+  "name": "TruTV",
+  "links": [
+    "https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8",
+    "http://143.244.60.97/TRU_TV/index.m3u8"
+  ]
+},
+{
+  "id": "Syfy.-.Eastern.Feed.us",
+  "name": "Syfy",
+  "links": [
+    "http://212.102.60.231/SYFY/index.m3u8",
+    "http://143.244.60.97/SYFY/index.m3u8"
+  ]
+},
+{
+  "id": "Nick.Music.us",
+  "name": "NickMusic",
+  "links": [
+    "http://212.102.60.231/NICK_MUSIC/index.m3u8"
+  ]
+},
+{
+  "id": "QVC3.us",
+  "name": "QVC3",
+  "links": [
+    "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8"
+  ]
+},
+{
+  "id": "TNT.-.Eastern.Feed.us",
+  "name": "TNT",
+  "links": [
+    "https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8",
+    "http://143.244.60.97/TNT/index.m3u8",
+    "http://23.237.104.106:8080/USA_TNT/index.m3u8"
+  ]
+},
+{
+  "id": "HLN.us",
+  "name": "HLN",
+  "links": [
+    "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
+    "http://143.244.60.97/HLN/index.m3u8"
+  ]
+},
+{
+  "id": "Magnolia.-.East.us",
+  "name": "Magnolia Network",
+  "links": [
+    "http://162.81.167.120:9981/stream/channelid/642659541?profile=pass"
+  ]
+},
+{
+  "id": "QVC2.us",
+  "name": "QVC2",
+  "links": [
+    "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8"
+  ]
+},
+{
+  "id": "HSN..-.Home.Shopping.Network.us",
+  "name": "HSN",
+  "links": [
+    "https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8",
+    "http://143.244.60.97/HSN/index.m3u8"
+  ]
+},
+{
+  "id": "QVC.us",
+  "name": "QVC",
+  "links": [
+    "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8",
+    "http://143.244.60.97/QVC/index.m3u8"
+  ]
+}
+  ]
+}

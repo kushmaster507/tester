@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1,This list is undergoing maintenance
+https://dai.google.com/linear/hls/pb/event/xnlUoFXpSOWTM8xgHCrKDw/stream/45bcf4bd-6050-42d0-ba92-73fe81154ee0:SIN/master.m3u8
+#EXTINF:-1,Survivor
+https://dai.google.com/linear/hls/pb/event/xnlUoFXpSOWTM8xgHCrKDw/stream/45bcf4bd-6050-42d0-ba92-73fe81154ee0:SIN/master.m3u8
+#EXTINF:-1,Masterchef
+https://dai.google.com/linear/hls/pb/event/xnlUoFXpSOWTM8xgHCrKDw/stream/61bf3003-452c-4f2c-8322-73d35b671af9:TPE/master.m3u8
+#EXTINF:-1,Little Kids
+https://dai.google.com/linear/hls/pb/event/QGZU7_AYRUKdH9Ap35LtZg/stream/65834079-2f63-4510-a2c0-f6aa67517c75:SIN/master.m3u8
+#EXTINF:-1,Retro Cartoons
+https://dai.google.com/linear/hls/pb/event/oLFo9MQ2T2S1limyQbCnGw/stream/a8b16480-041e-401e-aa11-f3a3045ba146:SIN2/master.m3u8
+#EXTINF:-1,Christmas Movies
+https://dai.google.com/linear/hls/pb/event/YTkK0Q4TRouSjxA_ERCoWg/stream/8935db8e-b783-45c0-beae-02d0d164cee4:SIN2/master.m3u8
+#EXTINF:-1,Wipeout Xtra
+https://dai.google.com/linear/hls/pb/event/xKi5S6gLRvSREvWHkAO-Eg/stream/0f4246d8-09d5-4212-af58-97f4441866c2:TPE2/master.m3u8
+#EXTINF:-1,Aussie Drama
+https://dai.google.com/linear/hls/pb/event/Y6HHvN1lS2q7pmCcIZnZlA/stream/2736a834-2de3-4625-9525-52ee28ca45ae:SIN2/master.m3u8
+#EXTINF:-1,Prisoner
+https://dai.google.com/linear/hls/pb/event/wLXdi_H6QFq6INQiPqHrAA/stream/56c07ccc-fe70-4f9c-82ee-4968125dc73c:SIN/master.m3u8
+#EXTINF:-1,Baywatch
+https://dai.google.com/linear/hls/pb/event/VvwqIBKoQfey293YepI7tw/stream/7504cd7e-f570-4ca4-8758-f8f3506269f3:SIN/master.m3u8
+#EXTINF:-1,Action and Adventure
+https://dai.google.com/linear/hls/pb/event/jBIViYWyTh6-WnE4mXj2LA/stream/efb0e6bd-3801-4c41-858f-568976166772:TPE/master.m3u8
+#EXTINF:-1,The Wicked Tuna Channel
+https://dai.google.com/linear/hls/pb/event/l-N4-xRZTzikHGqTSZR5gQ/stream/7b18d70c-1029-476c-a483-69d98dbae051:SIN/master.m3u8
+#EXTINF:-1,True Stories
+https://dai.google.com/linear/hls/pb/event/LYMUYLf9Q3S0NmfcNbpjdQ/stream/b9523641-fb36-445d-9454-c35d18de5101:TPE2/master.m3u8
+#EXTINF:-1,Moviesphere
+https://dai.google.com/linear/hls/pb/event/ynK_uI7bRSeYMb_6KL9TbA/stream/bace2ab4-c572-4a69-ae38-ceb4576d34e4:SIN/master.m3u8

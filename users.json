@@ -1,0 +1,34 @@
+{
+    "admins": [
+        {
+            "username": "admin1",
+            "password": "admin123"
+        },
+        {
+            "username": "admin2",
+            "password": "password2"
+        }
+    ],
+    "users": [
+        {
+            "username": "dream",
+            "password": "test"
+        },
+        {
+            "username": "scifisports",
+            "password": "science420"
+        },
+        {
+            "username": "mrniceguy",
+            "password": "niceday420"
+        },
+        {
+            "username": "mine",
+            "password": "test123"
+        },
+        {
+            "username": "Ansaccount",
+            "password": "EnJoYtHiS123"
+        }
+    ]
+}
